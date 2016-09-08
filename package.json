@@ -1,0 +1,24 @@
+{
+  "name": "eleganticons",
+  "version": "0.0.1",
+  "description": "Another Elegant Icon font with sass as a npm package",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanshiqi/elegant-icons.git"
+  },
+  "keywords": [
+    "elegant",
+    "icons",
+    "Elegant Icons"
+  ],
+  "author": "Tan.Shiqi <tanshiqi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tanshiqi/elegant-icons/issues"
+  },
+  "homepage": "https://github.com/tanshiqi/elegant-icons#readme"
+}
