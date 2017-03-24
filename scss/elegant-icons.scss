@@ -3,6 +3,7 @@
 @import 'icons-list';
 
 $ei-font-path: '/fonts' !default;
+$ei-icon-prefix: 'ei-' !default;
 
 // Add unicode escape backslash
 @function unicode($str) {
@@ -41,13 +42,15 @@ $ei-font-path: '/fonts' !default;
 // Set each icon rules
 @each $icon-name, $icon-code in $ei-icons-list {
   // Generate sass placeholders
-  %#{$icon-name} {
+  %#{$ei-icon-prefix}#{$icon-name} {
     @include elegant-icon($icon-name);
   }
 
   // Generate class selectors
-  .#{$icon-name}:before {
-    @extend %#{$icon-name};
+  .#{$ei-icon-prefix} {
+    &#{$icon-name}:before {
+      @extend %#{$ei-icon-prefix}#{$icon-name};
+    }
   }
 }
 
