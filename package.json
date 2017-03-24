@@ -5,7 +5,10 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node-sass -r --output-style expanded ./scss/elegant-icons-sass.scss ./css/elegant-icons.css"
+    "build": "node-sass -r --output-style expanded ./scss/elegant-icons-sass.scss ./css/elegant-icons.css",
+    "postbuild": "npm run autoprefixer && npm run minify",
+    "autoprefixer": "postcss css/elegant-icons.css --use autoprefixer --no-map -o css/elegant-icons.css",
+    "minify": "cssnano css/elegant-icons.css css/elegant-icons.min.css"
   },
   "repository": {
     "type": "git",
@@ -25,6 +28,8 @@
   },
   "homepage": "https://github.com/mdentinho/elegant-icons-sass#readme",
   "devDependencies": {
-    "node-sass": "^4.5.1"
+    "autoprefixer": "^6.7.7",
+    "node-sass": "^4.5.1",
+    "postcss-cli": "^3.0.0"
   }
 }
