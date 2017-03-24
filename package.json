@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node-sass -r --output-style expanded ./scss/elegant-icons.scss ./css/elegant-icons.css"
+    "build": "node-sass -r --output-style expanded ./scss/elegant-icons-sass.scss ./css/elegant-icons.css"
   },
   "repository": {
     "type": "git",
