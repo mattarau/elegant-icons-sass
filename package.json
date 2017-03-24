@@ -1,24 +1,30 @@
 {
-  "name": "eleganticons",
-  "version": "0.0.1",
-  "description": "Another Elegant Icon font with sass as a npm package",
+  "name": "elegant-icons-sass",
+  "version": "0.1.0",
+  "description": "Elegant Icon with real sass support",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-sass -r --output-style expanded ./scss/elegant-icons.scss ./css/elegant-icons.css"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tanshiqi/elegant-icons.git"
+    "url": "git+https://github.com/mdentinho/elegant-icons-sass.git"
   },
   "keywords": [
     "elegant",
     "icons",
+    "sass",
     "Elegant Icons"
+    "Elegant Icons Sass"
   ],
-  "author": "Tan.Shiqi <tanshiqi@gmail.com>",
+  "author": "Matheus Araujo <matheus.araujo@e-strident.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tanshiqi/elegant-icons/issues"
+    "url": "https://github.com/mdentinho/elegant-icons-sass/issues"
   },
-  "homepage": "https://github.com/tanshiqi/elegant-icons#readme"
+  "homepage": "https://github.com/mdentinho/elegant-icons-sass#readme",
+  "devDependencies": {
+    "node-sass": "^4.5.1"
+  }
 }
