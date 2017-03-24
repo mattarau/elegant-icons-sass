@@ -36,9 +36,11 @@ $ei-icon-prefix: 'ei-' !default;
 
 // Icon definition mixin
 @mixin elegant-icon($icon-name) {
-  @extend %common-icon-properties;
+  &::before {
+    @extend %common-icon-properties;
 
-  content: unicode('#{map-get($ei-icons-list, $icon-name)}');
+    content: unicode('#{map-get($ei-icons-list, $icon-name)}');
+  }
 }
 
 // Set each icon rules
@@ -50,7 +52,7 @@ $ei-icon-prefix: 'ei-' !default;
 
   // Generate class selectors
   .#{$ei-icon-prefix} {
-    &#{$icon-name}:before {
+    &#{$icon-name} {
       @extend %#{$ei-icon-prefix}#{$icon-name};
     }
   }
