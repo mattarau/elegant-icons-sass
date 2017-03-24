@@ -2,7 +2,7 @@
   "name": "elegant-icons-sass",
   "version": "0.1.0",
   "description": "Elegant Icon with real sass support",
-  "main": "index.html",
+  "main": "scss/elegant-icons-sass.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node-sass -r --output-style expanded ./scss/elegant-icons-sass.scss ./css/elegant-icons.css",
