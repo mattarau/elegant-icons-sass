@@ -3,6 +3,8 @@
 @import 'icons-list';
 
 $ei-font-path: '/fonts' !default;
+$ei-font-filename: 'ElegantIcons' !default;
+$ei-font-family: $ei-font-filename !default;
 $ei-icon-prefix: 'ei-' !default;
 
 // Add unicode escape backslash
@@ -11,18 +13,18 @@ $ei-icon-prefix: 'ei-' !default;
 };
 
 @font-face {
-  font-family: 'ElegantIcons';
-  src: url('#{$ei-font-path}/ElegantIcons.eot');
-  src: url('#{$ei-font-path}/ElegantIcons.eot?#iefix') format('embedded-opentype'),
-       url('#{$ei-font-path}/ElegantIcons.woff') format('woff'),
-       url('#{$ei-font-path}/ElegantIcons.ttf') format('truetype'),
-       url('#{$ei-font-path}/ElegantIcons.svg#ElegantIcons') format('svg');
+  font-family: $ei-font-family;
+  src: url('#{$ei-font-path}/#{$ei-font-filename}.eot');
+  src: url('#{$ei-font-path}/#{$ei-font-filename}.eot?#iefix') format('embedded-opentype'),
+       url('#{$ei-font-path}/#{$ei-font-filename}.woff') format('woff'),
+       url('#{$ei-font-path}/#{$ei-font-filename}.ttf') format('truetype'),
+       url('#{$ei-font-path}/#{$ei-font-filename}.svg##{$ei-font-filename}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 %common-icon-properties {
-	font-family: 'ElegantIcons';
+	font-family: $ei-font-family;
   font-smoothing: antialiased;
 	font-style: normal;
   font-variant: normal;
