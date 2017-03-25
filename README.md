@@ -52,6 +52,8 @@ To use the icons, you will need their names, which you can find [here](https://w
 
 > The unicode references of the above list are meant to be used as `data-icon`, which the support has been removed in this sass version, because it‘s considered a bad practice due to performance issues. If you wish to use this way, you must define it yourself.
 
+By default, the icon will be defined as a `::before` pseude-element. If you wish to change this default, check the [**Advanced Customization**](#Advanced-Customization) section below.
+
 ### As a mixin
 
 Simply include the mixin in your selector:
@@ -62,15 +64,15 @@ Simply include the mixin in your selector:
 }
 ```
 
-By default, the icon will be defined as a `::before` pseude-element. If you wish it to be defined as `::after`, simply set it as a second parameter:
+> When using as a mixin, the selector‘s `prefix` must **NOT** be used.
+
+You can override the icon default placement by passing it a second parameter:
 
 ```scss
 .my-selector {
   @include elegant-icon('social_twitter_circle', 'after');  
 }
 ```
-
-> When using as a mixin, the selector‘s `prefix` must **NOT** be used.
 
 ### As a placeholder
 
@@ -81,8 +83,6 @@ Simply extend the your selector with the placeholder:
   @extend %ei-arrow_down;
 }
 ```
-
-> By default, the icon will be defined as a `::before` pseude-element.
 
 > When using as a placeholder, the selector `prefix` must be used, unless you have overridden it as an empty string.
 
@@ -98,7 +98,7 @@ If you just want to use it as a class, you can simply set the icon class name to
 
 ## Advanced Customization
 
-You can override two more variables:
+You can override a few more variables:
 
 1. The font file name:
   ```scss
@@ -117,6 +117,15 @@ You can override two more variables:
   ```
 
   > Override only if you somehow wish to have a different font-family name defined to the icons font.
+
+3. The default icon placement:
+  ```scss
+  $ei-default-placement: 'after';
+
+  // Default value: 'before'
+  ```
+
+  > The icon placement can only be set as 'before' or 'after' which will define it as a `::before` or an `::after` pseudo-element, respectively.
 
 ## Contributing
 
