@@ -1,6 +1,6 @@
 {
   "name": "elegant-icons-sass",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Elegant Icon with real sass support",
   "main": "scss/elegant-icons-sass.scss",
   "scripts": {
