@@ -35,8 +35,12 @@ $ei-icon-prefix: 'ei-' !default;
 }
 
 // Icon definition mixin
-@mixin elegant-icon($icon-name) {
-  &::before {
+@mixin elegant-icon($icon-name, $placement: before) {
+  @if ($placement != before or $placement != after) {
+    @error 'The icon placement can only be set as \'before\' or \'after\'';
+  }
+
+  &::#{$placement} {
     @extend %common-icon-properties;
 
     content: unicode('#{map-get($ei-icons-list, $icon-name)}');
