@@ -14,8 +14,8 @@ $ei-icon-prefix: 'ei-' !default;
 
 @font-face {
   font-family: $ei-font-family;
-  src: url('#{$ei-font-path}/#{$ei-font-filename}.eot');
-  src: url('#{$ei-font-path}/#{$ei-font-filename}.eot?#iefix') format('embedded-opentype'),
+  src: url('#{$ei-font-path}/#{$ei-font-filename}.eot'),
+       url('#{$ei-font-path}/#{$ei-font-filename}.woff2') format('woff2'),
        url('#{$ei-font-path}/#{$ei-font-filename}.woff') format('woff'),
        url('#{$ei-font-path}/#{$ei-font-filename}.ttf') format('truetype'),
        url('#{$ei-font-path}/#{$ei-font-filename}.svg##{$ei-font-filename}') format('svg');
