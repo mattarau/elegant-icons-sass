@@ -6,6 +6,7 @@ $ei-font-path: '/fonts' !default;
 $ei-font-filename: 'ElegantIcons' !default;
 $ei-font-family: $ei-font-filename !default;
 $ei-icon-prefix: 'ei-' !default;
+$ei-default-placement: 'before';
 
 // Add unicode escape backslash
 @function unicode($str) {
@@ -35,8 +36,8 @@ $ei-icon-prefix: 'ei-' !default;
 }
 
 // Icon definition mixin
-@mixin elegant-icon($icon-name, $placement: before) {
-  @if ($placement != before or $placement != after) {
+@mixin elegant-icon($icon-name, $placement: $ei-default-placement) {
+  @if ($placement != 'before' and $placement != 'after') {
     @error 'The icon placement can only be set as \'before\' or \'after\'';
   }
 
@@ -58,6 +59,9 @@ $ei-icon-prefix: 'ei-' !default;
   .#{$ei-icon-prefix} {
     &#{$icon-name} {
       @extend %#{$ei-icon-prefix}#{$icon-name};
+    }
+    &i {
+      font-style: normal;
     }
   }
 }
