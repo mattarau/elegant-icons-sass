@@ -5,7 +5,7 @@
   src: url("/fonts/ElegantIcons.woff2") format("woff2"), url("/fonts/ElegantIcons.woff") format("woff");
 }
 
-.ei-arrow_up::before, .ei-arrow_down::before, .ei-arrow_left::before, .ei-arrow_right::before, .ei-arrow_left-up::before, .ei-arrow_right-up::before, .ei-arrow_right-down::before, .ei-arrow_left-down::before, .ei-arrow-up-down::before, .ei-arrow_up-down_alt::before, .ei-arrow_left-right_alt::before, .ei-arrow_left-right::before, .ei-arrow_expand_alt2::before, .ei-arrow_expand_alt::before, .ei-arrow_condense::before, .ei-arrow_expand::before, .ei-arrow_move::before, .ei-arrow_carrot-up::before, .ei-arrow_carrot-down::before, .ei-arrow_carrot-left::before, .ei-arrow_carrot-right::before, .ei-arrow_carrot-2up::before, .ei-arrow_carrot-2down::before, .ei-arrow_carrot-2left::before, .ei-arrow_carrot-2right::before, .ei-arrow_carrot-up_alt2::before, .ei-arrow_carrot-down_alt2::before, .ei-arrow_carrot-left_alt2::before, .ei-arrow_carrot-right_alt2::before, .ei-arrow_carrot-2up_alt2::before, .ei-arrow_carrot-2down_alt2::before, .ei-arrow_carrot-2left_alt2::before, .ei-arrow_carrot-2right_alt2::before, .ei-arrow_triangle-up::before, .ei-arrow_triangle-down::before, .ei-arrow_triangle-left::before, .ei-arrow_triangle-right::before, .ei-arrow_triangle-up_alt2::before, .ei-arrow_triangle-down_alt2::before, .ei-arrow_triangle-left_alt2::before, .ei-arrow_triangle-right_alt2::before, .ei-arrow_back::before, .ei-icon_minus-06::before, .ei-icon_plus::before, .ei-icon_close::before, .ei-icon_check::before, .ei-icon_minus_alt2::before, .ei-icon_plus_alt2::before, .ei-icon_close_alt2::before, .ei-icon_check_alt2::before, .ei-icon_zoom-out_alt::before, .ei-icon_zoom-in_alt::before, .ei-icon_search::before, .ei-icon_box-empty::before, .ei-icon_box-selected::before, .ei-icon_minus-box::before, .ei-icon_plus-box::before, .ei-icon_box-checked::before, .ei-icon_circle-empty::before, .ei-icon_circle-slelected::before, .ei-icon_stop_alt2::before, .ei-icon_stop::before, .ei-icon_pause_alt2::before, .ei-icon_pause::before, .ei-icon_menu::before, .ei-icon_menu-square_alt2::before, .ei-icon_menu-circle_alt2::before, .ei-icon_ul::before, .ei-icon_ol::before, .ei-icon_adjust-horiz::before, .ei-icon_adjust-vert::before, .ei-icon_document_alt::before, .ei-icon_documents_alt::before, .ei-icon_pencil::before, .ei-icon_pencil-edit_alt::before, .ei-icon_pencil-edit::before, .ei-icon_folder-alt::before, .ei-icon_folder-open_alt::before, .ei-icon_folder-add_alt::before, .ei-icon_info_alt::before, .ei-icon_error-oct_alt::before, .ei-icon_error-circle_alt::before, .ei-icon_error-triangle_alt::before, .ei-icon_question_alt2::before, .ei-icon_question::before, .ei-icon_comment_alt::before, .ei-icon_chat_alt::before, .ei-icon_vol-mute_alt::before, .ei-icon_volume-low_alt::before, .ei-icon_volume-high_alt::before, .ei-icon_quotations::before, .ei-icon_quotations_alt2::before, .ei-icon_clock_alt::before, .ei-icon_lock_alt::before, .ei-icon_lock-open_alt::before, .ei-icon_key_alt::before, .ei-icon_cloud_alt::before, .ei-icon_cloud-upload_alt::before, .ei-icon_cloud-download_alt::before, .ei-icon_image::before, .ei-icon_images::before, .ei-icon_lightbulb_alt::before, .ei-icon_gift_alt::before, .ei-icon_house_alt::before, .ei-icon_genius::before, .ei-icon_mobile::before, .ei-icon_tablet::before, .ei-icon_laptop::before, .ei-icon_desktop::before, .ei-icon_camera_alt::before, .ei-icon_mail_alt::before, .ei-icon_cone_alt::before, .ei-icon_ribbon_alt::before, .ei-icon_bag_alt::before, .ei-icon_creditcard::before, .ei-icon_cart_alt::before, .ei-icon_paperclip::before, .ei-icon_tag_alt::before, .ei-icon_tags_alt::before, .ei-icon_trash_alt::before, .ei-icon_cursor_alt::before, .ei-icon_mic_alt::before, .ei-icon_compass_alt::before, .ei-icon_pin_alt::before, .ei-icon_pushpin_alt::before, .ei-icon_map_alt::before, .ei-icon_drawer_alt::before, .ei-icon_toolbox_alt::before, .ei-icon_book_alt::before, .ei-icon_calendar::before, .ei-icon_film::before, .ei-icon_table::before, .ei-icon_contacts_alt::before, .ei-icon_headphones::before, .ei-icon_lifesaver::before, .ei-icon_piechart::before, .ei-icon_refresh::before, .ei-icon_link_alt::before, .ei-icon_link::before, .ei-icon_loading::before, .ei-icon_blocked::before, .ei-icon_archive_alt::before, .ei-icon_heart_alt::before, .ei-icon_star_alt::before, .ei-icon_star-half_alt::before, .ei-icon_star::before, .ei-icon_star-half::before, .ei-icon_tools::before, .ei-icon_tool::before, .ei-icon_cog::before, .ei-icon_cogs::before, .ei-arrow_up_alt::before, .ei-arrow_down_alt::before, .ei-arrow_left_alt::before, .ei-arrow_right_alt::before, .ei-arrow_left-up_alt::before, .ei-arrow_right-up_alt::before, .ei-arrow_right-down_alt::before, .ei-arrow_left-down_alt::before, .ei-arrow_condense_alt::before, .ei-arrow_expand_alt3::before, .ei-arrow_carrot_up_alt::before, .ei-arrow_carrot-down_alt::before, .ei-arrow_carrot-left_alt::before, .ei-arrow_carrot-right_alt::before, .ei-arrow_carrot-2up_alt::before, .ei-arrow_carrot-2dwnn_alt::before, .ei-arrow_carrot-2left_alt::before, .ei-arrow_carrot-2right_alt::before, .ei-arrow_triangle-up_alt::before, .ei-arrow_triangle-down_alt::before, .ei-arrow_triangle-left_alt::before, .ei-arrow_triangle-right_alt::before, .ei-icon_minus_alt::before, .ei-icon_plus_alt::before, .ei-icon_close_alt::before, .ei-icon_check_alt::before, .ei-icon_zoom-out::before, .ei-icon_zoom-in::before, .ei-icon_stop_alt::before, .ei-icon_menu-square_alt::before, .ei-icon_menu-circle_alt::before, .ei-icon_document::before, .ei-icon_documents::before, .ei-icon_pencil_alt::before, .ei-icon_folder::before, .ei-icon_folder-open::before, .ei-icon_folder-add::before, .ei-icon_folder_upload::before, .ei-icon_folder_download::before, .ei-icon_info::before, .ei-icon_error-circle::before, .ei-icon_error-oct::before, .ei-icon_error-triangle::before, .ei-icon_question_alt::before, .ei-icon_comment::before, .ei-icon_chat::before, .ei-icon_vol-mute::before, .ei-icon_volume-low::before, .ei-icon_volume-high::before, .ei-icon_quotations_alt::before, .ei-icon_clock::before, .ei-icon_lock::before, .ei-icon_lock-open::before, .ei-icon_key::before, .ei-icon_cloud::before, .ei-icon_cloud-upload::before, .ei-icon_cloud-download::before, .ei-icon_lightbulb::before, .ei-icon_gift::before, .ei-icon_house::before, .ei-icon_camera::before, .ei-icon_mail::before, .ei-icon_cone::before, .ei-icon_ribbon::before, .ei-icon_bag::before, .ei-icon_cart::before, .ei-icon_tag::before, .ei-icon_tags::before, .ei-icon_trash::before, .ei-icon_cursor::before, .ei-icon_mic::before, .ei-icon_compass::before, .ei-icon_pin::before, .ei-icon_pushpin::before, .ei-icon_map::before, .ei-icon_drawer::before, .ei-icon_toolbox::before, .ei-icon_book::before, .ei-icon_contacts::before, .ei-icon_archive::before, .ei-icon_heart::before, .ei-icon_profile::before, .ei-icon_group::before, .ei-icon_grid-2x2::before, .ei-icon_grid-3x3::before, .ei-icon_music::before, .ei-icon_pause_alt::before, .ei-icon_phone::before, .ei-icon_upload::before, .ei-icon_download::before, .ei-social_facebook::before, .ei-social_twitter::before, .ei-social_pinterest::before, .ei-social_googleplus::before, .ei-social_tumblr::before, .ei-social_tumbleupon::before, .ei-social_wordpress::before, .ei-social_instagram::before, .ei-social_dribbble::before, .ei-social_vimeo::before, .ei-social_linkedin::before, .ei-social_rss::before, .ei-social_deviantart::before, .ei-social_share::before, .ei-social_myspace::before, .ei-social_skype::before, .ei-social_youtube::before, .ei-social_picassa::before, .ei-social_googledrive::before, .ei-social_flickr::before, .ei-social_blogger::before, .ei-social_spotify::before, .ei-social_delicious::before, .ei-social_facebook_circle::before, .ei-social_twitter_circle::before, .ei-social_pinterest_circle::before, .ei-social_googleplus_circle::before, .ei-social_tumblr_circle::before, .ei-social_stumbleupon_circle::before, .ei-social_wordpress_circle::before, .ei-social_instagram_circle::before, .ei-social_dribbble_circle::before, .ei-social_vimeo_circle::before, .ei-social_linkedin_circle::before, .ei-social_rss_circle::before, .ei-social_deviantart_circle::before, .ei-social_share_circle::before, .ei-social_myspace_circle::before, .ei-social_skype_circle::before, .ei-social_youtube_circle::before, .ei-social_picassa_circle::before, .ei-social_googledrive_alt2::before, .ei-social_flickr_circle::before, .ei-social_blogger_circle::before, .ei-social_spotify_circle::before, .ei-social_delicious_circle::before, .ei-social_facebook_square::before, .ei-social_twitter_square::before, .ei-social_pinterest_square::before, .ei-social_googleplus_square::before, .ei-social_tumblr_square::before, .ei-social_stumbleupon_square::before, .ei-social_wordpress_square::before, .ei-social_instagram_square::before, .ei-social_dribbble_square::before, .ei-social_vimeo_square::before, .ei-social_linkedin_square::before, .ei-social_rss_square::before, .ei-social_deviantart_square::before, .ei-social_share_square::before, .ei-social_myspace_square::before, .ei-social_skype_square::before, .ei-social_youtube_square::before, .ei-social_picassa_square::before, .ei-social_googledrive_square::before, .ei-social_flickr_square::before, .ei-social_blogger_square::before, .ei-social_spotify_square::before, .ei-social_delicious_square::before, .ei-icon_printer::before, .ei-icon_calulator::before, .ei-icon_building::before, .ei-icon_floppy::before, .ei-icon_drive::before, .ei-icon_search-2::before, .ei-icon_id::before, .ei-icon_id-2::before, .ei-icon_puzzle::before, .ei-icon_like::before, .ei-icon_dislike::before, .ei-icon_mug::before, .ei-icon_currency::before, .ei-icon_wallet::before, .ei-icon_pens::before, .ei-icon_easel::before, .ei-icon_flowchart::before, .ei-icon_datareport::before, .ei-icon_briefcase::before, .ei-icon_shield::before, .ei-icon_percent::before, .ei-icon_globe::before, .ei-icon_globe-2::before, .ei-icon_target::before, .ei-icon_hourglass::before, .ei-icon_balance::before, .ei-icon_rook::before, .ei-icon_printer-alt::before, .ei-icon_calculator_alt::before, .ei-icon_building_alt::before, .ei-icon_floppy_alt::before, .ei-icon_drive_alt::before, .ei-icon_search_alt::before, .ei-icon_id_alt::before, .ei-icon_id-2_alt::before, .ei-icon_puzzle_alt::before, .ei-icon_like_alt::before, .ei-icon_dislike_alt::before, .ei-icon_mug_alt::before, .ei-icon_currency_alt::before, .ei-icon_wallet_alt::before, .ei-icon_pens_alt::before, .ei-icon_easel_alt::before, .ei-icon_flowchart_alt::before, .ei-icon_datareport_alt::before, .ei-icon_briefcase_alt::before, .ei-icon_shield_alt::before, .ei-icon_percent_alt::before, .ei-icon_globe_alt::before, .ei-icon_clipboard::before {
+.ei-arrow_up::before, .ei-icon_arrow_up::before, .ei-arrow_down::before, .ei-icon_arrow_down::before, .ei-arrow_left::before, .ei-icon_arrow_left::before, .ei-arrow_right::before, .ei-icon_arrow_right::before, .ei-arrow_left-up::before, .ei-icon_arrow_left-up::before, .ei-arrow_right-up::before, .ei-icon_arrow_right-up::before, .ei-arrow_right-down::before, .ei-icon_arrow_right-down::before, .ei-arrow_left-down::before, .ei-icon_arrow_left-down::before, .ei-arrow-up-down::before, .ei-icon_arrow-up-down::before, .ei-arrow_up-down_alt::before, .ei-icon_arrow_up-down_alt::before, .ei-arrow_left-right_alt::before, .ei-icon_arrow_left-right_alt::before, .ei-arrow_left-right::before, .ei-icon_arrow_left-right::before, .ei-arrow_expand_alt2::before, .ei-icon_arrow_expand_alt2::before, .ei-arrow_expand_alt::before, .ei-icon_arrow_expand_alt::before, .ei-arrow_condense::before, .ei-icon_arrow_condense::before, .ei-arrow_expand::before, .ei-icon_arrow_expand::before, .ei-arrow_move::before, .ei-icon_arrow_move::before, .ei-arrow_carrot-up::before, .ei-icon_arrow_carrot-up::before, .ei-arrow_carrot-down::before, .ei-icon_arrow_carrot-down::before, .ei-arrow_carrot-left::before, .ei-icon_arrow_carrot-left::before, .ei-arrow_carrot-right::before, .ei-icon_arrow_carrot-right::before, .ei-arrow_carrot-2up::before, .ei-icon_arrow_carrot-2up::before, .ei-arrow_carrot-2down::before, .ei-icon_arrow_carrot-2down::before, .ei-arrow_carrot-2left::before, .ei-icon_arrow_carrot-2left::before, .ei-arrow_carrot-2right::before, .ei-icon_arrow_carrot-2right::before, .ei-arrow_carrot-up_alt2::before, .ei-icon_arrow_carrot-up_alt2::before, .ei-arrow_carrot-down_alt2::before, .ei-icon_arrow_carrot-down_alt2::before, .ei-arrow_carrot-left_alt2::before, .ei-icon_arrow_carrot-left_alt2::before, .ei-arrow_carrot-right_alt2::before, .ei-icon_arrow_carrot-right_alt2::before, .ei-arrow_carrot-2up_alt2::before, .ei-icon_arrow_carrot-2up_alt2::before, .ei-arrow_carrot-2down_alt2::before, .ei-icon_arrow_carrot-2down_alt2::before, .ei-arrow_carrot-2left_alt2::before, .ei-icon_arrow_carrot-2left_alt2::before, .ei-arrow_carrot-2right_alt2::before, .ei-icon_arrow_carrot-2right_alt2::before, .ei-arrow_triangle-up::before, .ei-icon_arrow_triangle-up::before, .ei-arrow_triangle-down::before, .ei-icon_arrow_triangle-down::before, .ei-arrow_triangle-left::before, .ei-icon_arrow_triangle-left::before, .ei-arrow_triangle-right::before, .ei-icon_arrow_triangle-right::before, .ei-arrow_triangle-up_alt2::before, .ei-icon_arrow_triangle-up_alt2::before, .ei-arrow_triangle-down_alt2::before, .ei-icon_arrow_triangle-down_alt2::before, .ei-arrow_triangle-left_alt2::before, .ei-icon_arrow_triangle-left_alt2::before, .ei-arrow_triangle-right_alt2::before, .ei-icon_arrow_triangle-right_alt2::before, .ei-arrow_back::before, .ei-icon_arrow_back::before, .ei-minus-06::before, .ei-icon_minus-06::before, .ei-plus::before, .ei-icon_plus::before, .ei-close::before, .ei-icon_close::before, .ei-check::before, .ei-icon_check::before, .ei-minus_alt2::before, .ei-icon_minus_alt2::before, .ei-plus_alt2::before, .ei-icon_plus_alt2::before, .ei-close_alt2::before, .ei-icon_close_alt2::before, .ei-check_alt2::before, .ei-icon_check_alt2::before, .ei-zoom-out_alt::before, .ei-icon_zoom-out_alt::before, .ei-zoom-in_alt::before, .ei-icon_zoom-in_alt::before, .ei-search::before, .ei-icon_search::before, .ei-box-empty::before, .ei-icon_box-empty::before, .ei-box-selected::before, .ei-icon_box-selected::before, .ei-minus-box::before, .ei-icon_minus-box::before, .ei-plus-box::before, .ei-icon_plus-box::before, .ei-box-checked::before, .ei-icon_box-checked::before, .ei-circle-empty::before, .ei-icon_circle-empty::before, .ei-circle-slelected::before, .ei-icon_circle-slelected::before, .ei-stop_alt2::before, .ei-icon_stop_alt2::before, .ei-stop::before, .ei-icon_stop::before, .ei-pause_alt2::before, .ei-icon_pause_alt2::before, .ei-pause::before, .ei-icon_pause::before, .ei-menu::before, .ei-icon_menu::before, .ei-menu-square_alt2::before, .ei-icon_menu-square_alt2::before, .ei-menu-circle_alt2::before, .ei-icon_menu-circle_alt2::before, .ei-ul::before, .ei-icon_ul::before, .ei-ol::before, .ei-icon_ol::before, .ei-adjust-horiz::before, .ei-icon_adjust-horiz::before, .ei-adjust-vert::before, .ei-icon_adjust-vert::before, .ei-document_alt::before, .ei-icon_document_alt::before, .ei-documents_alt::before, .ei-icon_documents_alt::before, .ei-pencil::before, .ei-icon_pencil::before, .ei-pencil-edit_alt::before, .ei-icon_pencil-edit_alt::before, .ei-pencil-edit::before, .ei-icon_pencil-edit::before, .ei-folder-alt::before, .ei-icon_folder-alt::before, .ei-folder-open_alt::before, .ei-icon_folder-open_alt::before, .ei-folder-add_alt::before, .ei-icon_folder-add_alt::before, .ei-info_alt::before, .ei-icon_info_alt::before, .ei-error-oct_alt::before, .ei-icon_error-oct_alt::before, .ei-error-circle_alt::before, .ei-icon_error-circle_alt::before, .ei-error-triangle_alt::before, .ei-icon_error-triangle_alt::before, .ei-question_alt2::before, .ei-icon_question_alt2::before, .ei-question::before, .ei-icon_question::before, .ei-comment_alt::before, .ei-icon_comment_alt::before, .ei-chat_alt::before, .ei-icon_chat_alt::before, .ei-vol-mute_alt::before, .ei-icon_vol-mute_alt::before, .ei-volume-low_alt::before, .ei-icon_volume-low_alt::before, .ei-volume-high_alt::before, .ei-icon_volume-high_alt::before, .ei-quotations::before, .ei-icon_quotations::before, .ei-quotations_alt2::before, .ei-icon_quotations_alt2::before, .ei-clock_alt::before, .ei-icon_clock_alt::before, .ei-lock_alt::before, .ei-icon_lock_alt::before, .ei-lock-open_alt::before, .ei-icon_lock-open_alt::before, .ei-key_alt::before, .ei-icon_key_alt::before, .ei-cloud_alt::before, .ei-icon_cloud_alt::before, .ei-cloud-upload_alt::before, .ei-icon_cloud-upload_alt::before, .ei-cloud-download_alt::before, .ei-icon_cloud-download_alt::before, .ei-image::before, .ei-icon_image::before, .ei-images::before, .ei-icon_images::before, .ei-lightbulb_alt::before, .ei-icon_lightbulb_alt::before, .ei-gift_alt::before, .ei-icon_gift_alt::before, .ei-house_alt::before, .ei-icon_house_alt::before, .ei-genius::before, .ei-icon_genius::before, .ei-mobile::before, .ei-icon_mobile::before, .ei-tablet::before, .ei-icon_tablet::before, .ei-laptop::before, .ei-icon_laptop::before, .ei-desktop::before, .ei-icon_desktop::before, .ei-camera_alt::before, .ei-icon_camera_alt::before, .ei-mail_alt::before, .ei-icon_mail_alt::before, .ei-cone_alt::before, .ei-icon_cone_alt::before, .ei-ribbon_alt::before, .ei-icon_ribbon_alt::before, .ei-bag_alt::before, .ei-icon_bag_alt::before, .ei-creditcard::before, .ei-icon_creditcard::before, .ei-cart_alt::before, .ei-icon_cart_alt::before, .ei-paperclip::before, .ei-icon_paperclip::before, .ei-tag_alt::before, .ei-icon_tag_alt::before, .ei-tags_alt::before, .ei-icon_tags_alt::before, .ei-trash_alt::before, .ei-icon_trash_alt::before, .ei-cursor_alt::before, .ei-icon_cursor_alt::before, .ei-mic_alt::before, .ei-icon_mic_alt::before, .ei-compass_alt::before, .ei-icon_compass_alt::before, .ei-pin_alt::before, .ei-icon_pin_alt::before, .ei-pushpin_alt::before, .ei-icon_pushpin_alt::before, .ei-map_alt::before, .ei-icon_map_alt::before, .ei-drawer_alt::before, .ei-icon_drawer_alt::before, .ei-toolbox_alt::before, .ei-icon_toolbox_alt::before, .ei-book_alt::before, .ei-icon_book_alt::before, .ei-calendar::before, .ei-icon_calendar::before, .ei-film::before, .ei-icon_film::before, .ei-table::before, .ei-icon_table::before, .ei-contacts_alt::before, .ei-icon_contacts_alt::before, .ei-headphones::before, .ei-icon_headphones::before, .ei-lifesaver::before, .ei-icon_lifesaver::before, .ei-piechart::before, .ei-icon_piechart::before, .ei-refresh::before, .ei-icon_refresh::before, .ei-link_alt::before, .ei-icon_link_alt::before, .ei-link::before, .ei-icon_link::before, .ei-loading::before, .ei-icon_loading::before, .ei-blocked::before, .ei-icon_blocked::before, .ei-archive_alt::before, .ei-icon_archive_alt::before, .ei-heart_alt::before, .ei-icon_heart_alt::before, .ei-star_alt::before, .ei-icon_star_alt::before, .ei-star-half_alt::before, .ei-icon_star-half_alt::before, .ei-star::before, .ei-icon_star::before, .ei-star-half::before, .ei-icon_star-half::before, .ei-tools::before, .ei-icon_tools::before, .ei-tool::before, .ei-icon_tool::before, .ei-cog::before, .ei-icon_cog::before, .ei-cogs::before, .ei-icon_cogs::before, .ei-arrow_up_alt::before, .ei-icon_arrow_up_alt::before, .ei-arrow_down_alt::before, .ei-icon_arrow_down_alt::before, .ei-arrow_left_alt::before, .ei-icon_arrow_left_alt::before, .ei-arrow_right_alt::before, .ei-icon_arrow_right_alt::before, .ei-arrow_left-up_alt::before, .ei-icon_arrow_left-up_alt::before, .ei-arrow_right-up_alt::before, .ei-icon_arrow_right-up_alt::before, .ei-arrow_right-down_alt::before, .ei-icon_arrow_right-down_alt::before, .ei-arrow_left-down_alt::before, .ei-icon_arrow_left-down_alt::before, .ei-arrow_condense_alt::before, .ei-icon_arrow_condense_alt::before, .ei-arrow_expand_alt3::before, .ei-icon_arrow_expand_alt3::before, .ei-arrow_carrot_up_alt::before, .ei-icon_arrow_carrot_up_alt::before, .ei-arrow_carrot-down_alt::before, .ei-icon_arrow_carrot-down_alt::before, .ei-arrow_carrot-left_alt::before, .ei-icon_arrow_carrot-left_alt::before, .ei-arrow_carrot-right_alt::before, .ei-icon_arrow_carrot-right_alt::before, .ei-arrow_carrot-2up_alt::before, .ei-icon_arrow_carrot-2up_alt::before, .ei-arrow_carrot-2dwnn_alt::before, .ei-icon_arrow_carrot-2dwnn_alt::before, .ei-arrow_carrot-2left_alt::before, .ei-icon_arrow_carrot-2left_alt::before, .ei-arrow_carrot-2right_alt::before, .ei-icon_arrow_carrot-2right_alt::before, .ei-arrow_triangle-up_alt::before, .ei-icon_arrow_triangle-up_alt::before, .ei-arrow_triangle-down_alt::before, .ei-icon_arrow_triangle-down_alt::before, .ei-arrow_triangle-left_alt::before, .ei-icon_arrow_triangle-left_alt::before, .ei-arrow_triangle-right_alt::before, .ei-icon_arrow_triangle-right_alt::before, .ei-minus_alt::before, .ei-icon_minus_alt::before, .ei-plus_alt::before, .ei-icon_plus_alt::before, .ei-close_alt::before, .ei-icon_close_alt::before, .ei-check_alt::before, .ei-icon_check_alt::before, .ei-zoom-out::before, .ei-icon_zoom-out::before, .ei-zoom-in::before, .ei-icon_zoom-in::before, .ei-stop_alt::before, .ei-icon_stop_alt::before, .ei-menu-square_alt::before, .ei-icon_menu-square_alt::before, .ei-menu-circle_alt::before, .ei-icon_menu-circle_alt::before, .ei-document::before, .ei-icon_document::before, .ei-documents::before, .ei-icon_documents::before, .ei-pencil_alt::before, .ei-icon_pencil_alt::before, .ei-folder::before, .ei-icon_folder::before, .ei-folder-open::before, .ei-icon_folder-open::before, .ei-folder-add::before, .ei-icon_folder-add::before, .ei-folder_upload::before, .ei-icon_folder_upload::before, .ei-folder_download::before, .ei-icon_folder_download::before, .ei-info::before, .ei-icon_info::before, .ei-error-circle::before, .ei-icon_error-circle::before, .ei-error-oct::before, .ei-icon_error-oct::before, .ei-error-triangle::before, .ei-icon_error-triangle::before, .ei-question_alt::before, .ei-icon_question_alt::before, .ei-comment::before, .ei-icon_comment::before, .ei-chat::before, .ei-icon_chat::before, .ei-vol-mute::before, .ei-icon_vol-mute::before, .ei-volume-low::before, .ei-icon_volume-low::before, .ei-volume-high::before, .ei-icon_volume-high::before, .ei-quotations_alt::before, .ei-icon_quotations_alt::before, .ei-clock::before, .ei-icon_clock::before, .ei-lock::before, .ei-icon_lock::before, .ei-lock-open::before, .ei-icon_lock-open::before, .ei-key::before, .ei-icon_key::before, .ei-cloud::before, .ei-icon_cloud::before, .ei-cloud-upload::before, .ei-icon_cloud-upload::before, .ei-cloud-download::before, .ei-icon_cloud-download::before, .ei-lightbulb::before, .ei-icon_lightbulb::before, .ei-gift::before, .ei-icon_gift::before, .ei-house::before, .ei-icon_house::before, .ei-camera::before, .ei-icon_camera::before, .ei-mail::before, .ei-icon_mail::before, .ei-cone::before, .ei-icon_cone::before, .ei-ribbon::before, .ei-icon_ribbon::before, .ei-bag::before, .ei-icon_bag::before, .ei-cart::before, .ei-icon_cart::before, .ei-tag::before, .ei-icon_tag::before, .ei-tags::before, .ei-icon_tags::before, .ei-trash::before, .ei-icon_trash::before, .ei-cursor::before, .ei-icon_cursor::before, .ei-mic::before, .ei-icon_mic::before, .ei-compass::before, .ei-icon_compass::before, .ei-pin::before, .ei-icon_pin::before, .ei-pushpin::before, .ei-icon_pushpin::before, .ei-map::before, .ei-icon_map::before, .ei-drawer::before, .ei-icon_drawer::before, .ei-toolbox::before, .ei-icon_toolbox::before, .ei-book::before, .ei-icon_book::before, .ei-contacts::before, .ei-icon_contacts::before, .ei-archive::before, .ei-icon_archive::before, .ei-heart::before, .ei-icon_heart::before, .ei-profile::before, .ei-icon_profile::before, .ei-group::before, .ei-icon_group::before, .ei-grid-2x2::before, .ei-icon_grid-2x2::before, .ei-grid-3x3::before, .ei-icon_grid-3x3::before, .ei-music::before, .ei-icon_music::before, .ei-pause_alt::before, .ei-icon_pause_alt::before, .ei-phone::before, .ei-icon_phone::before, .ei-upload::before, .ei-icon_upload::before, .ei-download::before, .ei-icon_download::before, .ei-social_facebook::before, .ei-icon_social_facebook::before, .ei-social_twitter::before, .ei-icon_social_twitter::before, .ei-social_pinterest::before, .ei-icon_social_pinterest::before, .ei-social_googleplus::before, .ei-icon_social_googleplus::before, .ei-social_tumblr::before, .ei-icon_social_tumblr::before, .ei-social_tumbleupon::before, .ei-icon_social_tumbleupon::before, .ei-social_wordpress::before, .ei-icon_social_wordpress::before, .ei-social_instagram::before, .ei-icon_social_instagram::before, .ei-social_dribbble::before, .ei-icon_social_dribbble::before, .ei-social_vimeo::before, .ei-icon_social_vimeo::before, .ei-social_linkedin::before, .ei-icon_social_linkedin::before, .ei-social_rss::before, .ei-icon_social_rss::before, .ei-social_deviantart::before, .ei-icon_social_deviantart::before, .ei-social_share::before, .ei-icon_social_share::before, .ei-social_myspace::before, .ei-icon_social_myspace::before, .ei-social_skype::before, .ei-icon_social_skype::before, .ei-social_youtube::before, .ei-icon_social_youtube::before, .ei-social_picassa::before, .ei-icon_social_picassa::before, .ei-social_googledrive::before, .ei-icon_social_googledrive::before, .ei-social_flickr::before, .ei-icon_social_flickr::before, .ei-social_blogger::before, .ei-icon_social_blogger::before, .ei-social_spotify::before, .ei-icon_social_spotify::before, .ei-social_delicious::before, .ei-icon_social_delicious::before, .ei-social_facebook_circle::before, .ei-icon_social_facebook_circle::before, .ei-social_twitter_circle::before, .ei-icon_social_twitter_circle::before, .ei-social_pinterest_circle::before, .ei-icon_social_pinterest_circle::before, .ei-social_googleplus_circle::before, .ei-icon_social_googleplus_circle::before, .ei-social_tumblr_circle::before, .ei-icon_social_tumblr_circle::before, .ei-social_stumbleupon_circle::before, .ei-icon_social_stumbleupon_circle::before, .ei-social_wordpress_circle::before, .ei-icon_social_wordpress_circle::before, .ei-social_instagram_circle::before, .ei-icon_social_instagram_circle::before, .ei-social_dribbble_circle::before, .ei-icon_social_dribbble_circle::before, .ei-social_vimeo_circle::before, .ei-icon_social_vimeo_circle::before, .ei-social_linkedin_circle::before, .ei-icon_social_linkedin_circle::before, .ei-social_rss_circle::before, .ei-icon_social_rss_circle::before, .ei-social_deviantart_circle::before, .ei-icon_social_deviantart_circle::before, .ei-social_share_circle::before, .ei-icon_social_share_circle::before, .ei-social_myspace_circle::before, .ei-icon_social_myspace_circle::before, .ei-social_skype_circle::before, .ei-icon_social_skype_circle::before, .ei-social_youtube_circle::before, .ei-icon_social_youtube_circle::before, .ei-social_picassa_circle::before, .ei-icon_social_picassa_circle::before, .ei-social_googledrive_alt2::before, .ei-icon_social_googledrive_alt2::before, .ei-social_flickr_circle::before, .ei-icon_social_flickr_circle::before, .ei-social_blogger_circle::before, .ei-icon_social_blogger_circle::before, .ei-social_spotify_circle::before, .ei-icon_social_spotify_circle::before, .ei-social_delicious_circle::before, .ei-icon_social_delicious_circle::before, .ei-social_facebook_square::before, .ei-icon_social_facebook_square::before, .ei-social_twitter_square::before, .ei-icon_social_twitter_square::before, .ei-social_pinterest_square::before, .ei-icon_social_pinterest_square::before, .ei-social_googleplus_square::before, .ei-icon_social_googleplus_square::before, .ei-social_tumblr_square::before, .ei-icon_social_tumblr_square::before, .ei-social_stumbleupon_square::before, .ei-icon_social_stumbleupon_square::before, .ei-social_wordpress_square::before, .ei-icon_social_wordpress_square::before, .ei-social_instagram_square::before, .ei-icon_social_instagram_square::before, .ei-social_dribbble_square::before, .ei-icon_social_dribbble_square::before, .ei-social_vimeo_square::before, .ei-icon_social_vimeo_square::before, .ei-social_linkedin_square::before, .ei-icon_social_linkedin_square::before, .ei-social_rss_square::before, .ei-icon_social_rss_square::before, .ei-social_deviantart_square::before, .ei-icon_social_deviantart_square::before, .ei-social_share_square::before, .ei-icon_social_share_square::before, .ei-social_myspace_square::before, .ei-icon_social_myspace_square::before, .ei-social_skype_square::before, .ei-icon_social_skype_square::before, .ei-social_youtube_square::before, .ei-icon_social_youtube_square::before, .ei-social_picassa_square::before, .ei-icon_social_picassa_square::before, .ei-social_googledrive_square::before, .ei-icon_social_googledrive_square::before, .ei-social_flickr_square::before, .ei-icon_social_flickr_square::before, .ei-social_blogger_square::before, .ei-icon_social_blogger_square::before, .ei-social_spotify_square::before, .ei-icon_social_spotify_square::before, .ei-social_delicious_square::before, .ei-icon_social_delicious_square::before, .ei-printer::before, .ei-icon_printer::before, .ei-calulator::before, .ei-icon_calulator::before, .ei-building::before, .ei-icon_building::before, .ei-floppy::before, .ei-icon_floppy::before, .ei-drive::before, .ei-icon_drive::before, .ei-search-2::before, .ei-icon_search-2::before, .ei-id::before, .ei-icon_id::before, .ei-id-2::before, .ei-icon_id-2::before, .ei-puzzle::before, .ei-icon_puzzle::before, .ei-like::before, .ei-icon_like::before, .ei-dislike::before, .ei-icon_dislike::before, .ei-mug::before, .ei-icon_mug::before, .ei-currency::before, .ei-icon_currency::before, .ei-wallet::before, .ei-icon_wallet::before, .ei-pens::before, .ei-icon_pens::before, .ei-easel::before, .ei-icon_easel::before, .ei-flowchart::before, .ei-icon_flowchart::before, .ei-datareport::before, .ei-icon_datareport::before, .ei-briefcase::before, .ei-icon_briefcase::before, .ei-shield::before, .ei-icon_shield::before, .ei-percent::before, .ei-icon_percent::before, .ei-globe::before, .ei-icon_globe::before, .ei-globe-2::before, .ei-icon_globe-2::before, .ei-target::before, .ei-icon_target::before, .ei-hourglass::before, .ei-icon_hourglass::before, .ei-balance::before, .ei-icon_balance::before, .ei-rook::before, .ei-icon_rook::before, .ei-printer-alt::before, .ei-icon_printer-alt::before, .ei-calculator_alt::before, .ei-icon_calculator_alt::before, .ei-building_alt::before, .ei-icon_building_alt::before, .ei-floppy_alt::before, .ei-icon_floppy_alt::before, .ei-drive_alt::before, .ei-icon_drive_alt::before, .ei-search_alt::before, .ei-icon_search_alt::before, .ei-id_alt::before, .ei-icon_id_alt::before, .ei-id-2_alt::before, .ei-icon_id-2_alt::before, .ei-puzzle_alt::before, .ei-icon_puzzle_alt::before, .ei-like_alt::before, .ei-icon_like_alt::before, .ei-dislike_alt::before, .ei-icon_dislike_alt::before, .ei-mug_alt::before, .ei-icon_mug_alt::before, .ei-currency_alt::before, .ei-icon_currency_alt::before, .ei-wallet_alt::before, .ei-icon_wallet_alt::before, .ei-pens_alt::before, .ei-icon_pens_alt::before, .ei-easel_alt::before, .ei-icon_easel_alt::before, .ei-flowchart_alt::before, .ei-icon_flowchart_alt::before, .ei-datareport_alt::before, .ei-icon_datareport_alt::before, .ei-briefcase_alt::before, .ei-icon_briefcase_alt::before, .ei-shield_alt::before, .ei-icon_shield_alt::before, .ei-percent_alt::before, .ei-icon_percent_alt::before, .ei-globe_alt::before, .ei-icon_globe_alt::before, .ei-clipboard::before, .ei-icon_clipboard::before {
   font-family: "ElegantIcons";
   font-style: normal;
   font-variant: normal;
@@ -15,7 +15,9 @@
   text-transform: none;
 }
 
-.ei-arrow_up::before {
+
+.ei-arrow_up::before,
+.ei-icon_arrow_up::before {
   content: '\21';
 }
 
@@ -23,7 +25,9 @@
   font-style: normal;
 }
 
-.ei-arrow_down::before {
+
+.ei-arrow_down::before,
+.ei-icon_arrow_down::before {
   content: '\22';
 }
 
@@ -31,7 +35,9 @@
   font-style: normal;
 }
 
-.ei-arrow_left::before {
+
+.ei-arrow_left::before,
+.ei-icon_arrow_left::before {
   content: '\23';
 }
 
@@ -39,7 +45,9 @@
   font-style: normal;
 }
 
-.ei-arrow_right::before {
+
+.ei-arrow_right::before,
+.ei-icon_arrow_right::before {
   content: '\24';
 }
 
@@ -47,7 +55,9 @@
   font-style: normal;
 }
 
-.ei-arrow_left-up::before {
+
+.ei-arrow_left-up::before,
+.ei-icon_arrow_left-up::before {
   content: '\25';
 }
 
@@ -55,7 +65,9 @@
   font-style: normal;
 }
 
-.ei-arrow_right-up::before {
+
+.ei-arrow_right-up::before,
+.ei-icon_arrow_right-up::before {
   content: '\26';
 }
 
@@ -63,7 +75,9 @@
   font-style: normal;
 }
 
-.ei-arrow_right-down::before {
+
+.ei-arrow_right-down::before,
+.ei-icon_arrow_right-down::before {
   content: '\27';
 }
 
@@ -71,7 +85,9 @@
   font-style: normal;
 }
 
-.ei-arrow_left-down::before {
+
+.ei-arrow_left-down::before,
+.ei-icon_arrow_left-down::before {
   content: '\28';
 }
 
@@ -79,7 +95,9 @@
   font-style: normal;
 }
 
-.ei-arrow-up-down::before {
+
+.ei-arrow-up-down::before,
+.ei-icon_arrow-up-down::before {
   content: '\29';
 }
 
@@ -87,7 +105,9 @@
   font-style: normal;
 }
 
-.ei-arrow_up-down_alt::before {
+
+.ei-arrow_up-down_alt::before,
+.ei-icon_arrow_up-down_alt::before {
   content: '\2a';
 }
 
@@ -95,7 +115,9 @@
   font-style: normal;
 }
 
-.ei-arrow_left-right_alt::before {
+
+.ei-arrow_left-right_alt::before,
+.ei-icon_arrow_left-right_alt::before {
   content: '\2b';
 }
 
@@ -103,7 +125,9 @@
   font-style: normal;
 }
 
-.ei-arrow_left-right::before {
+
+.ei-arrow_left-right::before,
+.ei-icon_arrow_left-right::before {
   content: '\2c';
 }
 
@@ -111,7 +135,9 @@
   font-style: normal;
 }
 
-.ei-arrow_expand_alt2::before {
+
+.ei-arrow_expand_alt2::before,
+.ei-icon_arrow_expand_alt2::before {
   content: '\2d';
 }
 
@@ -119,7 +145,9 @@
   font-style: normal;
 }
 
-.ei-arrow_expand_alt::before {
+
+.ei-arrow_expand_alt::before,
+.ei-icon_arrow_expand_alt::before {
   content: '\2e';
 }
 
@@ -127,7 +155,9 @@
   font-style: normal;
 }
 
-.ei-arrow_condense::before {
+
+.ei-arrow_condense::before,
+.ei-icon_arrow_condense::before {
   content: '\2f';
 }
 
@@ -135,7 +165,9 @@
   font-style: normal;
 }
 
-.ei-arrow_expand::before {
+
+.ei-arrow_expand::before,
+.ei-icon_arrow_expand::before {
   content: '\30';
 }
 
@@ -143,7 +175,9 @@
   font-style: normal;
 }
 
-.ei-arrow_move::before {
+
+.ei-arrow_move::before,
+.ei-icon_arrow_move::before {
   content: '\31';
 }
 
@@ -151,7 +185,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-up::before {
+
+.ei-arrow_carrot-up::before,
+.ei-icon_arrow_carrot-up::before {
   content: '\32';
 }
 
@@ -159,7 +195,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-down::before {
+
+.ei-arrow_carrot-down::before,
+.ei-icon_arrow_carrot-down::before {
   content: '\33';
 }
 
@@ -167,7 +205,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-left::before {
+
+.ei-arrow_carrot-left::before,
+.ei-icon_arrow_carrot-left::before {
   content: '\34';
 }
 
@@ -175,7 +215,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-right::before {
+
+.ei-arrow_carrot-right::before,
+.ei-icon_arrow_carrot-right::before {
   content: '\35';
 }
 
@@ -183,7 +225,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2up::before {
+
+.ei-arrow_carrot-2up::before,
+.ei-icon_arrow_carrot-2up::before {
   content: '\36';
 }
 
@@ -191,7 +235,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2down::before {
+
+.ei-arrow_carrot-2down::before,
+.ei-icon_arrow_carrot-2down::before {
   content: '\37';
 }
 
@@ -199,7 +245,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2left::before {
+
+.ei-arrow_carrot-2left::before,
+.ei-icon_arrow_carrot-2left::before {
   content: '\38';
 }
 
@@ -207,7 +255,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2right::before {
+
+.ei-arrow_carrot-2right::before,
+.ei-icon_arrow_carrot-2right::before {
   content: '\39';
 }
 
@@ -215,7 +265,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-up_alt2::before {
+
+.ei-arrow_carrot-up_alt2::before,
+.ei-icon_arrow_carrot-up_alt2::before {
   content: '\3a';
 }
 
@@ -223,7 +275,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-down_alt2::before {
+
+.ei-arrow_carrot-down_alt2::before,
+.ei-icon_arrow_carrot-down_alt2::before {
   content: '\3b';
 }
 
@@ -231,7 +285,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-left_alt2::before {
+
+.ei-arrow_carrot-left_alt2::before,
+.ei-icon_arrow_carrot-left_alt2::before {
   content: '\3c';
 }
 
@@ -239,7 +295,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-right_alt2::before {
+
+.ei-arrow_carrot-right_alt2::before,
+.ei-icon_arrow_carrot-right_alt2::before {
   content: '\3d';
 }
 
@@ -247,7 +305,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2up_alt2::before {
+
+.ei-arrow_carrot-2up_alt2::before,
+.ei-icon_arrow_carrot-2up_alt2::before {
   content: '\3e';
 }
 
@@ -255,7 +315,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2down_alt2::before {
+
+.ei-arrow_carrot-2down_alt2::before,
+.ei-icon_arrow_carrot-2down_alt2::before {
   content: '\3f';
 }
 
@@ -263,7 +325,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2left_alt2::before {
+
+.ei-arrow_carrot-2left_alt2::before,
+.ei-icon_arrow_carrot-2left_alt2::before {
   content: '\40';
 }
 
@@ -271,7 +335,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2right_alt2::before {
+
+.ei-arrow_carrot-2right_alt2::before,
+.ei-icon_arrow_carrot-2right_alt2::before {
   content: '\41';
 }
 
@@ -279,7 +345,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-up::before {
+
+.ei-arrow_triangle-up::before,
+.ei-icon_arrow_triangle-up::before {
   content: '\42';
 }
 
@@ -287,7 +355,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-down::before {
+
+.ei-arrow_triangle-down::before,
+.ei-icon_arrow_triangle-down::before {
   content: '\43';
 }
 
@@ -295,7 +365,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-left::before {
+
+.ei-arrow_triangle-left::before,
+.ei-icon_arrow_triangle-left::before {
   content: '\44';
 }
 
@@ -303,7 +375,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-right::before {
+
+.ei-arrow_triangle-right::before,
+.ei-icon_arrow_triangle-right::before {
   content: '\45';
 }
 
@@ -311,7 +385,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-up_alt2::before {
+
+.ei-arrow_triangle-up_alt2::before,
+.ei-icon_arrow_triangle-up_alt2::before {
   content: '\46';
 }
 
@@ -319,7 +395,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-down_alt2::before {
+
+.ei-arrow_triangle-down_alt2::before,
+.ei-icon_arrow_triangle-down_alt2::before {
   content: '\47';
 }
 
@@ -327,7 +405,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-left_alt2::before {
+
+.ei-arrow_triangle-left_alt2::before,
+.ei-icon_arrow_triangle-left_alt2::before {
   content: '\48';
 }
 
@@ -335,7 +415,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-right_alt2::before {
+
+.ei-arrow_triangle-right_alt2::before,
+.ei-icon_arrow_triangle-right_alt2::before {
   content: '\49';
 }
 
@@ -343,7 +425,9 @@
   font-style: normal;
 }
 
-.ei-arrow_back::before {
+
+.ei-arrow_back::before,
+.ei-icon_arrow_back::before {
   content: '\4a';
 }
 
@@ -351,6 +435,8 @@
   font-style: normal;
 }
 
+
+.ei-minus-06::before,
 .ei-icon_minus-06::before {
   content: '\4b';
 }
@@ -359,6 +445,8 @@
   font-style: normal;
 }
 
+
+.ei-plus::before,
 .ei-icon_plus::before {
   content: '\4c';
 }
@@ -367,6 +455,8 @@
   font-style: normal;
 }
 
+
+.ei-close::before,
 .ei-icon_close::before {
   content: '\4d';
 }
@@ -375,6 +465,8 @@
   font-style: normal;
 }
 
+
+.ei-check::before,
 .ei-icon_check::before {
   content: '\4e';
 }
@@ -383,6 +475,8 @@
   font-style: normal;
 }
 
+
+.ei-minus_alt2::before,
 .ei-icon_minus_alt2::before {
   content: '\4f';
 }
@@ -391,6 +485,8 @@
   font-style: normal;
 }
 
+
+.ei-plus_alt2::before,
 .ei-icon_plus_alt2::before {
   content: '\50';
 }
@@ -399,6 +495,8 @@
   font-style: normal;
 }
 
+
+.ei-close_alt2::before,
 .ei-icon_close_alt2::before {
   content: '\51';
 }
@@ -407,6 +505,8 @@
   font-style: normal;
 }
 
+
+.ei-check_alt2::before,
 .ei-icon_check_alt2::before {
   content: '\52';
 }
@@ -415,6 +515,8 @@
   font-style: normal;
 }
 
+
+.ei-zoom-out_alt::before,
 .ei-icon_zoom-out_alt::before {
   content: '\53';
 }
@@ -423,6 +525,8 @@
   font-style: normal;
 }
 
+
+.ei-zoom-in_alt::before,
 .ei-icon_zoom-in_alt::before {
   content: '\54';
 }
@@ -431,6 +535,8 @@
   font-style: normal;
 }
 
+
+.ei-search::before,
 .ei-icon_search::before {
   content: '\55';
 }
@@ -439,6 +545,8 @@
   font-style: normal;
 }
 
+
+.ei-box-empty::before,
 .ei-icon_box-empty::before {
   content: '\56';
 }
@@ -447,6 +555,8 @@
   font-style: normal;
 }
 
+
+.ei-box-selected::before,
 .ei-icon_box-selected::before {
   content: '\57';
 }
@@ -455,6 +565,8 @@
   font-style: normal;
 }
 
+
+.ei-minus-box::before,
 .ei-icon_minus-box::before {
   content: '\58';
 }
@@ -463,6 +575,8 @@
   font-style: normal;
 }
 
+
+.ei-plus-box::before,
 .ei-icon_plus-box::before {
   content: '\59';
 }
@@ -471,6 +585,8 @@
   font-style: normal;
 }
 
+
+.ei-box-checked::before,
 .ei-icon_box-checked::before {
   content: '\5a';
 }
@@ -479,6 +595,8 @@
   font-style: normal;
 }
 
+
+.ei-circle-empty::before,
 .ei-icon_circle-empty::before {
   content: '\5b';
 }
@@ -487,6 +605,8 @@
   font-style: normal;
 }
 
+
+.ei-circle-slelected::before,
 .ei-icon_circle-slelected::before {
   content: '\5c';
 }
@@ -495,6 +615,8 @@
   font-style: normal;
 }
 
+
+.ei-stop_alt2::before,
 .ei-icon_stop_alt2::before {
   content: '\5d';
 }
@@ -503,6 +625,8 @@
   font-style: normal;
 }
 
+
+.ei-stop::before,
 .ei-icon_stop::before {
   content: '\5e';
 }
@@ -511,6 +635,8 @@
   font-style: normal;
 }
 
+
+.ei-pause_alt2::before,
 .ei-icon_pause_alt2::before {
   content: '\5f';
 }
@@ -519,6 +645,8 @@
   font-style: normal;
 }
 
+
+.ei-pause::before,
 .ei-icon_pause::before {
   content: '\60';
 }
@@ -527,6 +655,8 @@
   font-style: normal;
 }
 
+
+.ei-menu::before,
 .ei-icon_menu::before {
   content: '\61';
 }
@@ -535,6 +665,8 @@
   font-style: normal;
 }
 
+
+.ei-menu-square_alt2::before,
 .ei-icon_menu-square_alt2::before {
   content: '\62';
 }
@@ -543,6 +675,8 @@
   font-style: normal;
 }
 
+
+.ei-menu-circle_alt2::before,
 .ei-icon_menu-circle_alt2::before {
   content: '\63';
 }
@@ -551,6 +685,8 @@
   font-style: normal;
 }
 
+
+.ei-ul::before,
 .ei-icon_ul::before {
   content: '\64';
 }
@@ -559,6 +695,8 @@
   font-style: normal;
 }
 
+
+.ei-ol::before,
 .ei-icon_ol::before {
   content: '\65';
 }
@@ -567,6 +705,8 @@
   font-style: normal;
 }
 
+
+.ei-adjust-horiz::before,
 .ei-icon_adjust-horiz::before {
   content: '\66';
 }
@@ -575,6 +715,8 @@
   font-style: normal;
 }
 
+
+.ei-adjust-vert::before,
 .ei-icon_adjust-vert::before {
   content: '\67';
 }
@@ -583,6 +725,8 @@
   font-style: normal;
 }
 
+
+.ei-document_alt::before,
 .ei-icon_document_alt::before {
   content: '\68';
 }
@@ -591,6 +735,8 @@
   font-style: normal;
 }
 
+
+.ei-documents_alt::before,
 .ei-icon_documents_alt::before {
   content: '\69';
 }
@@ -599,6 +745,8 @@
   font-style: normal;
 }
 
+
+.ei-pencil::before,
 .ei-icon_pencil::before {
   content: '\6a';
 }
@@ -607,6 +755,8 @@
   font-style: normal;
 }
 
+
+.ei-pencil-edit_alt::before,
 .ei-icon_pencil-edit_alt::before {
   content: '\6b';
 }
@@ -615,6 +765,8 @@
   font-style: normal;
 }
 
+
+.ei-pencil-edit::before,
 .ei-icon_pencil-edit::before {
   content: '\6c';
 }
@@ -623,6 +775,8 @@
   font-style: normal;
 }
 
+
+.ei-folder-alt::before,
 .ei-icon_folder-alt::before {
   content: '\6d';
 }
@@ -631,6 +785,8 @@
   font-style: normal;
 }
 
+
+.ei-folder-open_alt::before,
 .ei-icon_folder-open_alt::before {
   content: '\6e';
 }
@@ -639,6 +795,8 @@
   font-style: normal;
 }
 
+
+.ei-folder-add_alt::before,
 .ei-icon_folder-add_alt::before {
   content: '\6f';
 }
@@ -647,6 +805,8 @@
   font-style: normal;
 }
 
+
+.ei-info_alt::before,
 .ei-icon_info_alt::before {
   content: '\70';
 }
@@ -655,6 +815,8 @@
   font-style: normal;
 }
 
+
+.ei-error-oct_alt::before,
 .ei-icon_error-oct_alt::before {
   content: '\71';
 }
@@ -663,6 +825,8 @@
   font-style: normal;
 }
 
+
+.ei-error-circle_alt::before,
 .ei-icon_error-circle_alt::before {
   content: '\72';
 }
@@ -671,6 +835,8 @@
   font-style: normal;
 }
 
+
+.ei-error-triangle_alt::before,
 .ei-icon_error-triangle_alt::before {
   content: '\73';
 }
@@ -679,6 +845,8 @@
   font-style: normal;
 }
 
+
+.ei-question_alt2::before,
 .ei-icon_question_alt2::before {
   content: '\74';
 }
@@ -687,6 +855,8 @@
   font-style: normal;
 }
 
+
+.ei-question::before,
 .ei-icon_question::before {
   content: '\75';
 }
@@ -695,6 +865,8 @@
   font-style: normal;
 }
 
+
+.ei-comment_alt::before,
 .ei-icon_comment_alt::before {
   content: '\76';
 }
@@ -703,6 +875,8 @@
   font-style: normal;
 }
 
+
+.ei-chat_alt::before,
 .ei-icon_chat_alt::before {
   content: '\77';
 }
@@ -711,6 +885,8 @@
   font-style: normal;
 }
 
+
+.ei-vol-mute_alt::before,
 .ei-icon_vol-mute_alt::before {
   content: '\78';
 }
@@ -719,6 +895,8 @@
   font-style: normal;
 }
 
+
+.ei-volume-low_alt::before,
 .ei-icon_volume-low_alt::before {
   content: '\79';
 }
@@ -727,6 +905,8 @@
   font-style: normal;
 }
 
+
+.ei-volume-high_alt::before,
 .ei-icon_volume-high_alt::before {
   content: '\7a';
 }
@@ -735,6 +915,8 @@
   font-style: normal;
 }
 
+
+.ei-quotations::before,
 .ei-icon_quotations::before {
   content: '\7b';
 }
@@ -743,6 +925,8 @@
   font-style: normal;
 }
 
+
+.ei-quotations_alt2::before,
 .ei-icon_quotations_alt2::before {
   content: '\7c';
 }
@@ -751,6 +935,8 @@
   font-style: normal;
 }
 
+
+.ei-clock_alt::before,
 .ei-icon_clock_alt::before {
   content: '\7d';
 }
@@ -759,6 +945,8 @@
   font-style: normal;
 }
 
+
+.ei-lock_alt::before,
 .ei-icon_lock_alt::before {
   content: '\7e';
 }
@@ -767,6 +955,8 @@
   font-style: normal;
 }
 
+
+.ei-lock-open_alt::before,
 .ei-icon_lock-open_alt::before {
   content: '\e000';
 }
@@ -775,6 +965,8 @@
   font-style: normal;
 }
 
+
+.ei-key_alt::before,
 .ei-icon_key_alt::before {
   content: '\e001';
 }
@@ -783,6 +975,8 @@
   font-style: normal;
 }
 
+
+.ei-cloud_alt::before,
 .ei-icon_cloud_alt::before {
   content: '\e002';
 }
@@ -791,6 +985,8 @@
   font-style: normal;
 }
 
+
+.ei-cloud-upload_alt::before,
 .ei-icon_cloud-upload_alt::before {
   content: '\e003';
 }
@@ -799,6 +995,8 @@
   font-style: normal;
 }
 
+
+.ei-cloud-download_alt::before,
 .ei-icon_cloud-download_alt::before {
   content: '\e004';
 }
@@ -807,6 +1005,8 @@
   font-style: normal;
 }
 
+
+.ei-image::before,
 .ei-icon_image::before {
   content: '\e005';
 }
@@ -815,6 +1015,8 @@
   font-style: normal;
 }
 
+
+.ei-images::before,
 .ei-icon_images::before {
   content: '\e006';
 }
@@ -823,6 +1025,8 @@
   font-style: normal;
 }
 
+
+.ei-lightbulb_alt::before,
 .ei-icon_lightbulb_alt::before {
   content: '\e007';
 }
@@ -831,6 +1035,8 @@
   font-style: normal;
 }
 
+
+.ei-gift_alt::before,
 .ei-icon_gift_alt::before {
   content: '\e008';
 }
@@ -839,6 +1045,8 @@
   font-style: normal;
 }
 
+
+.ei-house_alt::before,
 .ei-icon_house_alt::before {
   content: '\e009';
 }
@@ -847,6 +1055,8 @@
   font-style: normal;
 }
 
+
+.ei-genius::before,
 .ei-icon_genius::before {
   content: '\e00a';
 }
@@ -855,6 +1065,8 @@
   font-style: normal;
 }
 
+
+.ei-mobile::before,
 .ei-icon_mobile::before {
   content: '\e00b';
 }
@@ -863,6 +1075,8 @@
   font-style: normal;
 }
 
+
+.ei-tablet::before,
 .ei-icon_tablet::before {
   content: '\e00c';
 }
@@ -871,6 +1085,8 @@
   font-style: normal;
 }
 
+
+.ei-laptop::before,
 .ei-icon_laptop::before {
   content: '\e00d';
 }
@@ -879,6 +1095,8 @@
   font-style: normal;
 }
 
+
+.ei-desktop::before,
 .ei-icon_desktop::before {
   content: '\e00e';
 }
@@ -887,6 +1105,8 @@
   font-style: normal;
 }
 
+
+.ei-camera_alt::before,
 .ei-icon_camera_alt::before {
   content: '\e00f';
 }
@@ -895,6 +1115,8 @@
   font-style: normal;
 }
 
+
+.ei-mail_alt::before,
 .ei-icon_mail_alt::before {
   content: '\e010';
 }
@@ -903,6 +1125,8 @@
   font-style: normal;
 }
 
+
+.ei-cone_alt::before,
 .ei-icon_cone_alt::before {
   content: '\e011';
 }
@@ -911,6 +1135,8 @@
   font-style: normal;
 }
 
+
+.ei-ribbon_alt::before,
 .ei-icon_ribbon_alt::before {
   content: '\e012';
 }
@@ -919,6 +1145,8 @@
   font-style: normal;
 }
 
+
+.ei-bag_alt::before,
 .ei-icon_bag_alt::before {
   content: '\e013';
 }
@@ -927,6 +1155,8 @@
   font-style: normal;
 }
 
+
+.ei-creditcard::before,
 .ei-icon_creditcard::before {
   content: '\e014';
 }
@@ -935,6 +1165,8 @@
   font-style: normal;
 }
 
+
+.ei-cart_alt::before,
 .ei-icon_cart_alt::before {
   content: '\e015';
 }
@@ -943,6 +1175,8 @@
   font-style: normal;
 }
 
+
+.ei-paperclip::before,
 .ei-icon_paperclip::before {
   content: '\e016';
 }
@@ -951,6 +1185,8 @@
   font-style: normal;
 }
 
+
+.ei-tag_alt::before,
 .ei-icon_tag_alt::before {
   content: '\e017';
 }
@@ -959,6 +1195,8 @@
   font-style: normal;
 }
 
+
+.ei-tags_alt::before,
 .ei-icon_tags_alt::before {
   content: '\e018';
 }
@@ -967,6 +1205,8 @@
   font-style: normal;
 }
 
+
+.ei-trash_alt::before,
 .ei-icon_trash_alt::before {
   content: '\e019';
 }
@@ -975,6 +1215,8 @@
   font-style: normal;
 }
 
+
+.ei-cursor_alt::before,
 .ei-icon_cursor_alt::before {
   content: '\e01a';
 }
@@ -983,6 +1225,8 @@
   font-style: normal;
 }
 
+
+.ei-mic_alt::before,
 .ei-icon_mic_alt::before {
   content: '\e01b';
 }
@@ -991,6 +1235,8 @@
   font-style: normal;
 }
 
+
+.ei-compass_alt::before,
 .ei-icon_compass_alt::before {
   content: '\e01c';
 }
@@ -999,6 +1245,8 @@
   font-style: normal;
 }
 
+
+.ei-pin_alt::before,
 .ei-icon_pin_alt::before {
   content: '\e01d';
 }
@@ -1007,6 +1255,8 @@
   font-style: normal;
 }
 
+
+.ei-pushpin_alt::before,
 .ei-icon_pushpin_alt::before {
   content: '\e01e';
 }
@@ -1015,6 +1265,8 @@
   font-style: normal;
 }
 
+
+.ei-map_alt::before,
 .ei-icon_map_alt::before {
   content: '\e01f';
 }
@@ -1023,6 +1275,8 @@
   font-style: normal;
 }
 
+
+.ei-drawer_alt::before,
 .ei-icon_drawer_alt::before {
   content: '\e020';
 }
@@ -1031,6 +1285,8 @@
   font-style: normal;
 }
 
+
+.ei-toolbox_alt::before,
 .ei-icon_toolbox_alt::before {
   content: '\e021';
 }
@@ -1039,6 +1295,8 @@
   font-style: normal;
 }
 
+
+.ei-book_alt::before,
 .ei-icon_book_alt::before {
   content: '\e022';
 }
@@ -1047,6 +1305,8 @@
   font-style: normal;
 }
 
+
+.ei-calendar::before,
 .ei-icon_calendar::before {
   content: '\e023';
 }
@@ -1055,6 +1315,8 @@
   font-style: normal;
 }
 
+
+.ei-film::before,
 .ei-icon_film::before {
   content: '\e024';
 }
@@ -1063,6 +1325,8 @@
   font-style: normal;
 }
 
+
+.ei-table::before,
 .ei-icon_table::before {
   content: '\e025';
 }
@@ -1071,6 +1335,8 @@
   font-style: normal;
 }
 
+
+.ei-contacts_alt::before,
 .ei-icon_contacts_alt::before {
   content: '\e026';
 }
@@ -1079,6 +1345,8 @@
   font-style: normal;
 }
 
+
+.ei-headphones::before,
 .ei-icon_headphones::before {
   content: '\e027';
 }
@@ -1087,6 +1355,8 @@
   font-style: normal;
 }
 
+
+.ei-lifesaver::before,
 .ei-icon_lifesaver::before {
   content: '\e028';
 }
@@ -1095,6 +1365,8 @@
   font-style: normal;
 }
 
+
+.ei-piechart::before,
 .ei-icon_piechart::before {
   content: '\e029';
 }
@@ -1103,6 +1375,8 @@
   font-style: normal;
 }
 
+
+.ei-refresh::before,
 .ei-icon_refresh::before {
   content: '\e02a';
 }
@@ -1111,6 +1385,8 @@
   font-style: normal;
 }
 
+
+.ei-link_alt::before,
 .ei-icon_link_alt::before {
   content: '\e02b';
 }
@@ -1119,6 +1395,8 @@
   font-style: normal;
 }
 
+
+.ei-link::before,
 .ei-icon_link::before {
   content: '\e02c';
 }
@@ -1127,6 +1405,8 @@
   font-style: normal;
 }
 
+
+.ei-loading::before,
 .ei-icon_loading::before {
   content: '\e02d';
 }
@@ -1135,6 +1415,8 @@
   font-style: normal;
 }
 
+
+.ei-blocked::before,
 .ei-icon_blocked::before {
   content: '\e02e';
 }
@@ -1143,6 +1425,8 @@
   font-style: normal;
 }
 
+
+.ei-archive_alt::before,
 .ei-icon_archive_alt::before {
   content: '\e02f';
 }
@@ -1151,6 +1435,8 @@
   font-style: normal;
 }
 
+
+.ei-heart_alt::before,
 .ei-icon_heart_alt::before {
   content: '\e030';
 }
@@ -1159,6 +1445,8 @@
   font-style: normal;
 }
 
+
+.ei-star_alt::before,
 .ei-icon_star_alt::before {
   content: '\e031';
 }
@@ -1167,6 +1455,8 @@
   font-style: normal;
 }
 
+
+.ei-star-half_alt::before,
 .ei-icon_star-half_alt::before {
   content: '\e032';
 }
@@ -1175,6 +1465,8 @@
   font-style: normal;
 }
 
+
+.ei-star::before,
 .ei-icon_star::before {
   content: '\e033';
 }
@@ -1183,6 +1475,8 @@
   font-style: normal;
 }
 
+
+.ei-star-half::before,
 .ei-icon_star-half::before {
   content: '\e034';
 }
@@ -1191,6 +1485,8 @@
   font-style: normal;
 }
 
+
+.ei-tools::before,
 .ei-icon_tools::before {
   content: '\e035';
 }
@@ -1199,6 +1495,8 @@
   font-style: normal;
 }
 
+
+.ei-tool::before,
 .ei-icon_tool::before {
   content: '\e036';
 }
@@ -1207,6 +1505,8 @@
   font-style: normal;
 }
 
+
+.ei-cog::before,
 .ei-icon_cog::before {
   content: '\e037';
 }
@@ -1215,6 +1515,8 @@
   font-style: normal;
 }
 
+
+.ei-cogs::before,
 .ei-icon_cogs::before {
   content: '\e038';
 }
@@ -1223,7 +1525,9 @@
   font-style: normal;
 }
 
-.ei-arrow_up_alt::before {
+
+.ei-arrow_up_alt::before,
+.ei-icon_arrow_up_alt::before {
   content: '\e039';
 }
 
@@ -1231,7 +1535,9 @@
   font-style: normal;
 }
 
-.ei-arrow_down_alt::before {
+
+.ei-arrow_down_alt::before,
+.ei-icon_arrow_down_alt::before {
   content: '\e03a';
 }
 
@@ -1239,7 +1545,9 @@
   font-style: normal;
 }
 
-.ei-arrow_left_alt::before {
+
+.ei-arrow_left_alt::before,
+.ei-icon_arrow_left_alt::before {
   content: '\e03b';
 }
 
@@ -1247,7 +1555,9 @@
   font-style: normal;
 }
 
-.ei-arrow_right_alt::before {
+
+.ei-arrow_right_alt::before,
+.ei-icon_arrow_right_alt::before {
   content: '\e03c';
 }
 
@@ -1255,7 +1565,9 @@
   font-style: normal;
 }
 
-.ei-arrow_left-up_alt::before {
+
+.ei-arrow_left-up_alt::before,
+.ei-icon_arrow_left-up_alt::before {
   content: '\e03d';
 }
 
@@ -1263,7 +1575,9 @@
   font-style: normal;
 }
 
-.ei-arrow_right-up_alt::before {
+
+.ei-arrow_right-up_alt::before,
+.ei-icon_arrow_right-up_alt::before {
   content: '\e03e';
 }
 
@@ -1271,7 +1585,9 @@
   font-style: normal;
 }
 
-.ei-arrow_right-down_alt::before {
+
+.ei-arrow_right-down_alt::before,
+.ei-icon_arrow_right-down_alt::before {
   content: '\e03f';
 }
 
@@ -1279,7 +1595,9 @@
   font-style: normal;
 }
 
-.ei-arrow_left-down_alt::before {
+
+.ei-arrow_left-down_alt::before,
+.ei-icon_arrow_left-down_alt::before {
   content: '\e040';
 }
 
@@ -1287,7 +1605,9 @@
   font-style: normal;
 }
 
-.ei-arrow_condense_alt::before {
+
+.ei-arrow_condense_alt::before,
+.ei-icon_arrow_condense_alt::before {
   content: '\e041';
 }
 
@@ -1295,7 +1615,9 @@
   font-style: normal;
 }
 
-.ei-arrow_expand_alt3::before {
+
+.ei-arrow_expand_alt3::before,
+.ei-icon_arrow_expand_alt3::before {
   content: '\e042';
 }
 
@@ -1303,7 +1625,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot_up_alt::before {
+
+.ei-arrow_carrot_up_alt::before,
+.ei-icon_arrow_carrot_up_alt::before {
   content: '\e043';
 }
 
@@ -1311,7 +1635,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-down_alt::before {
+
+.ei-arrow_carrot-down_alt::before,
+.ei-icon_arrow_carrot-down_alt::before {
   content: '\e044';
 }
 
@@ -1319,7 +1645,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-left_alt::before {
+
+.ei-arrow_carrot-left_alt::before,
+.ei-icon_arrow_carrot-left_alt::before {
   content: '\e045';
 }
 
@@ -1327,7 +1655,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-right_alt::before {
+
+.ei-arrow_carrot-right_alt::before,
+.ei-icon_arrow_carrot-right_alt::before {
   content: '\e046';
 }
 
@@ -1335,7 +1665,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2up_alt::before {
+
+.ei-arrow_carrot-2up_alt::before,
+.ei-icon_arrow_carrot-2up_alt::before {
   content: '\e047';
 }
 
@@ -1343,7 +1675,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2dwnn_alt::before {
+
+.ei-arrow_carrot-2dwnn_alt::before,
+.ei-icon_arrow_carrot-2dwnn_alt::before {
   content: '\e048';
 }
 
@@ -1351,7 +1685,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2left_alt::before {
+
+.ei-arrow_carrot-2left_alt::before,
+.ei-icon_arrow_carrot-2left_alt::before {
   content: '\e049';
 }
 
@@ -1359,7 +1695,9 @@
   font-style: normal;
 }
 
-.ei-arrow_carrot-2right_alt::before {
+
+.ei-arrow_carrot-2right_alt::before,
+.ei-icon_arrow_carrot-2right_alt::before {
   content: '\e04a';
 }
 
@@ -1367,7 +1705,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-up_alt::before {
+
+.ei-arrow_triangle-up_alt::before,
+.ei-icon_arrow_triangle-up_alt::before {
   content: '\e04b';
 }
 
@@ -1375,7 +1715,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-down_alt::before {
+
+.ei-arrow_triangle-down_alt::before,
+.ei-icon_arrow_triangle-down_alt::before {
   content: '\e04c';
 }
 
@@ -1383,7 +1725,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-left_alt::before {
+
+.ei-arrow_triangle-left_alt::before,
+.ei-icon_arrow_triangle-left_alt::before {
   content: '\e04d';
 }
 
@@ -1391,7 +1735,9 @@
   font-style: normal;
 }
 
-.ei-arrow_triangle-right_alt::before {
+
+.ei-arrow_triangle-right_alt::before,
+.ei-icon_arrow_triangle-right_alt::before {
   content: '\e04e';
 }
 
@@ -1399,6 +1745,8 @@
   font-style: normal;
 }
 
+
+.ei-minus_alt::before,
 .ei-icon_minus_alt::before {
   content: '\e04f';
 }
@@ -1407,6 +1755,8 @@
   font-style: normal;
 }
 
+
+.ei-plus_alt::before,
 .ei-icon_plus_alt::before {
   content: '\e050';
 }
@@ -1415,6 +1765,8 @@
   font-style: normal;
 }
 
+
+.ei-close_alt::before,
 .ei-icon_close_alt::before {
   content: '\e051';
 }
@@ -1423,6 +1775,8 @@
   font-style: normal;
 }
 
+
+.ei-check_alt::before,
 .ei-icon_check_alt::before {
   content: '\e052';
 }
@@ -1431,6 +1785,8 @@
   font-style: normal;
 }
 
+
+.ei-zoom-out::before,
 .ei-icon_zoom-out::before {
   content: '\e053';
 }
@@ -1439,6 +1795,8 @@
   font-style: normal;
 }
 
+
+.ei-zoom-in::before,
 .ei-icon_zoom-in::before {
   content: '\e054';
 }
@@ -1447,6 +1805,8 @@
   font-style: normal;
 }
 
+
+.ei-stop_alt::before,
 .ei-icon_stop_alt::before {
   content: '\e055';
 }
@@ -1455,6 +1815,8 @@
   font-style: normal;
 }
 
+
+.ei-menu-square_alt::before,
 .ei-icon_menu-square_alt::before {
   content: '\e056';
 }
@@ -1463,6 +1825,8 @@
   font-style: normal;
 }
 
+
+.ei-menu-circle_alt::before,
 .ei-icon_menu-circle_alt::before {
   content: '\e057';
 }
@@ -1471,6 +1835,8 @@
   font-style: normal;
 }
 
+
+.ei-document::before,
 .ei-icon_document::before {
   content: '\e058';
 }
@@ -1479,6 +1845,8 @@
   font-style: normal;
 }
 
+
+.ei-documents::before,
 .ei-icon_documents::before {
   content: '\e059';
 }
@@ -1487,6 +1855,8 @@
   font-style: normal;
 }
 
+
+.ei-pencil_alt::before,
 .ei-icon_pencil_alt::before {
   content: '\e05a';
 }
@@ -1495,6 +1865,8 @@
   font-style: normal;
 }
 
+
+.ei-folder::before,
 .ei-icon_folder::before {
   content: '\e05b';
 }
@@ -1503,6 +1875,8 @@
   font-style: normal;
 }
 
+
+.ei-folder-open::before,
 .ei-icon_folder-open::before {
   content: '\e05c';
 }
@@ -1511,6 +1885,8 @@
   font-style: normal;
 }
 
+
+.ei-folder-add::before,
 .ei-icon_folder-add::before {
   content: '\e05d';
 }
@@ -1519,6 +1895,8 @@
   font-style: normal;
 }
 
+
+.ei-folder_upload::before,
 .ei-icon_folder_upload::before {
   content: '\e05e';
 }
@@ -1527,6 +1905,8 @@
   font-style: normal;
 }
 
+
+.ei-folder_download::before,
 .ei-icon_folder_download::before {
   content: '\e05f';
 }
@@ -1535,6 +1915,8 @@
   font-style: normal;
 }
 
+
+.ei-info::before,
 .ei-icon_info::before {
   content: '\e060';
 }
@@ -1543,6 +1925,8 @@
   font-style: normal;
 }
 
+
+.ei-error-circle::before,
 .ei-icon_error-circle::before {
   content: '\e061';
 }
@@ -1551,6 +1935,8 @@
   font-style: normal;
 }
 
+
+.ei-error-oct::before,
 .ei-icon_error-oct::before {
   content: '\e062';
 }
@@ -1559,6 +1945,8 @@
   font-style: normal;
 }
 
+
+.ei-error-triangle::before,
 .ei-icon_error-triangle::before {
   content: '\e063';
 }
@@ -1567,6 +1955,8 @@
   font-style: normal;
 }
 
+
+.ei-question_alt::before,
 .ei-icon_question_alt::before {
   content: '\e064';
 }
@@ -1575,6 +1965,8 @@
   font-style: normal;
 }
 
+
+.ei-comment::before,
 .ei-icon_comment::before {
   content: '\e065';
 }
@@ -1583,6 +1975,8 @@
   font-style: normal;
 }
 
+
+.ei-chat::before,
 .ei-icon_chat::before {
   content: '\e066';
 }
@@ -1591,6 +1985,8 @@
   font-style: normal;
 }
 
+
+.ei-vol-mute::before,
 .ei-icon_vol-mute::before {
   content: '\e067';
 }
@@ -1599,6 +1995,8 @@
   font-style: normal;
 }
 
+
+.ei-volume-low::before,
 .ei-icon_volume-low::before {
   content: '\e068';
 }
@@ -1607,6 +2005,8 @@
   font-style: normal;
 }
 
+
+.ei-volume-high::before,
 .ei-icon_volume-high::before {
   content: '\e069';
 }
@@ -1615,6 +2015,8 @@
   font-style: normal;
 }
 
+
+.ei-quotations_alt::before,
 .ei-icon_quotations_alt::before {
   content: '\e06a';
 }
@@ -1623,6 +2025,8 @@
   font-style: normal;
 }
 
+
+.ei-clock::before,
 .ei-icon_clock::before {
   content: '\e06b';
 }
@@ -1631,6 +2035,8 @@
   font-style: normal;
 }
 
+
+.ei-lock::before,
 .ei-icon_lock::before {
   content: '\e06c';
 }
@@ -1639,6 +2045,8 @@
   font-style: normal;
 }
 
+
+.ei-lock-open::before,
 .ei-icon_lock-open::before {
   content: '\e06d';
 }
@@ -1647,6 +2055,8 @@
   font-style: normal;
 }
 
+
+.ei-key::before,
 .ei-icon_key::before {
   content: '\e06e';
 }
@@ -1655,6 +2065,8 @@
   font-style: normal;
 }
 
+
+.ei-cloud::before,
 .ei-icon_cloud::before {
   content: '\e06f';
 }
@@ -1663,6 +2075,8 @@
   font-style: normal;
 }
 
+
+.ei-cloud-upload::before,
 .ei-icon_cloud-upload::before {
   content: '\e070';
 }
@@ -1671,6 +2085,8 @@
   font-style: normal;
 }
 
+
+.ei-cloud-download::before,
 .ei-icon_cloud-download::before {
   content: '\e071';
 }
@@ -1679,6 +2095,8 @@
   font-style: normal;
 }
 
+
+.ei-lightbulb::before,
 .ei-icon_lightbulb::before {
   content: '\e072';
 }
@@ -1687,6 +2105,8 @@
   font-style: normal;
 }
 
+
+.ei-gift::before,
 .ei-icon_gift::before {
   content: '\e073';
 }
@@ -1695,6 +2115,8 @@
   font-style: normal;
 }
 
+
+.ei-house::before,
 .ei-icon_house::before {
   content: '\e074';
 }
@@ -1703,6 +2125,8 @@
   font-style: normal;
 }
 
+
+.ei-camera::before,
 .ei-icon_camera::before {
   content: '\e075';
 }
@@ -1711,6 +2135,8 @@
   font-style: normal;
 }
 
+
+.ei-mail::before,
 .ei-icon_mail::before {
   content: '\e076';
 }
@@ -1719,6 +2145,8 @@
   font-style: normal;
 }
 
+
+.ei-cone::before,
 .ei-icon_cone::before {
   content: '\e077';
 }
@@ -1727,6 +2155,8 @@
   font-style: normal;
 }
 
+
+.ei-ribbon::before,
 .ei-icon_ribbon::before {
   content: '\e078';
 }
@@ -1735,6 +2165,8 @@
   font-style: normal;
 }
 
+
+.ei-bag::before,
 .ei-icon_bag::before {
   content: '\e079';
 }
@@ -1743,6 +2175,8 @@
   font-style: normal;
 }
 
+
+.ei-cart::before,
 .ei-icon_cart::before {
   content: '\e07a';
 }
@@ -1751,6 +2185,8 @@
   font-style: normal;
 }
 
+
+.ei-tag::before,
 .ei-icon_tag::before {
   content: '\e07b';
 }
@@ -1759,6 +2195,8 @@
   font-style: normal;
 }
 
+
+.ei-tags::before,
 .ei-icon_tags::before {
   content: '\e07c';
 }
@@ -1767,6 +2205,8 @@
   font-style: normal;
 }
 
+
+.ei-trash::before,
 .ei-icon_trash::before {
   content: '\e07d';
 }
@@ -1775,6 +2215,8 @@
   font-style: normal;
 }
 
+
+.ei-cursor::before,
 .ei-icon_cursor::before {
   content: '\e07e';
 }
@@ -1783,6 +2225,8 @@
   font-style: normal;
 }
 
+
+.ei-mic::before,
 .ei-icon_mic::before {
   content: '\e07f';
 }
@@ -1791,6 +2235,8 @@
   font-style: normal;
 }
 
+
+.ei-compass::before,
 .ei-icon_compass::before {
   content: '\e080';
 }
@@ -1799,6 +2245,8 @@
   font-style: normal;
 }
 
+
+.ei-pin::before,
 .ei-icon_pin::before {
   content: '\e081';
 }
@@ -1807,6 +2255,8 @@
   font-style: normal;
 }
 
+
+.ei-pushpin::before,
 .ei-icon_pushpin::before {
   content: '\e082';
 }
@@ -1815,6 +2265,8 @@
   font-style: normal;
 }
 
+
+.ei-map::before,
 .ei-icon_map::before {
   content: '\e083';
 }
@@ -1823,6 +2275,8 @@
   font-style: normal;
 }
 
+
+.ei-drawer::before,
 .ei-icon_drawer::before {
   content: '\e084';
 }
@@ -1831,6 +2285,8 @@
   font-style: normal;
 }
 
+
+.ei-toolbox::before,
 .ei-icon_toolbox::before {
   content: '\e085';
 }
@@ -1839,6 +2295,8 @@
   font-style: normal;
 }
 
+
+.ei-book::before,
 .ei-icon_book::before {
   content: '\e086';
 }
@@ -1847,6 +2305,8 @@
   font-style: normal;
 }
 
+
+.ei-contacts::before,
 .ei-icon_contacts::before {
   content: '\e087';
 }
@@ -1855,6 +2315,8 @@
   font-style: normal;
 }
 
+
+.ei-archive::before,
 .ei-icon_archive::before {
   content: '\e088';
 }
@@ -1863,6 +2325,8 @@
   font-style: normal;
 }
 
+
+.ei-heart::before,
 .ei-icon_heart::before {
   content: '\e089';
 }
@@ -1871,6 +2335,8 @@
   font-style: normal;
 }
 
+
+.ei-profile::before,
 .ei-icon_profile::before {
   content: '\e08a';
 }
@@ -1879,6 +2345,8 @@
   font-style: normal;
 }
 
+
+.ei-group::before,
 .ei-icon_group::before {
   content: '\e08b';
 }
@@ -1887,6 +2355,8 @@
   font-style: normal;
 }
 
+
+.ei-grid-2x2::before,
 .ei-icon_grid-2x2::before {
   content: '\e08c';
 }
@@ -1895,6 +2365,8 @@
   font-style: normal;
 }
 
+
+.ei-grid-3x3::before,
 .ei-icon_grid-3x3::before {
   content: '\e08d';
 }
@@ -1903,6 +2375,8 @@
   font-style: normal;
 }
 
+
+.ei-music::before,
 .ei-icon_music::before {
   content: '\e08e';
 }
@@ -1911,6 +2385,8 @@
   font-style: normal;
 }
 
+
+.ei-pause_alt::before,
 .ei-icon_pause_alt::before {
   content: '\e08f';
 }
@@ -1919,6 +2395,8 @@
   font-style: normal;
 }
 
+
+.ei-phone::before,
 .ei-icon_phone::before {
   content: '\e090';
 }
@@ -1927,6 +2405,8 @@
   font-style: normal;
 }
 
+
+.ei-upload::before,
 .ei-icon_upload::before {
   content: '\e091';
 }
@@ -1935,6 +2415,8 @@
   font-style: normal;
 }
 
+
+.ei-download::before,
 .ei-icon_download::before {
   content: '\e092';
 }
@@ -1943,7 +2425,9 @@
   font-style: normal;
 }
 
-.ei-social_facebook::before {
+
+.ei-social_facebook::before,
+.ei-icon_social_facebook::before {
   content: '\e093';
 }
 
@@ -1951,7 +2435,9 @@
   font-style: normal;
 }
 
-.ei-social_twitter::before {
+
+.ei-social_twitter::before,
+.ei-icon_social_twitter::before {
   content: '\e094';
 }
 
@@ -1959,7 +2445,9 @@
   font-style: normal;
 }
 
-.ei-social_pinterest::before {
+
+.ei-social_pinterest::before,
+.ei-icon_social_pinterest::before {
   content: '\e095';
 }
 
@@ -1967,7 +2455,9 @@
   font-style: normal;
 }
 
-.ei-social_googleplus::before {
+
+.ei-social_googleplus::before,
+.ei-icon_social_googleplus::before {
   content: '\e096';
 }
 
@@ -1975,7 +2465,9 @@
   font-style: normal;
 }
 
-.ei-social_tumblr::before {
+
+.ei-social_tumblr::before,
+.ei-icon_social_tumblr::before {
   content: '\e097';
 }
 
@@ -1983,7 +2475,9 @@
   font-style: normal;
 }
 
-.ei-social_tumbleupon::before {
+
+.ei-social_tumbleupon::before,
+.ei-icon_social_tumbleupon::before {
   content: '\e098';
 }
 
@@ -1991,7 +2485,9 @@
   font-style: normal;
 }
 
-.ei-social_wordpress::before {
+
+.ei-social_wordpress::before,
+.ei-icon_social_wordpress::before {
   content: '\e099';
 }
 
@@ -1999,7 +2495,9 @@
   font-style: normal;
 }
 
-.ei-social_instagram::before {
+
+.ei-social_instagram::before,
+.ei-icon_social_instagram::before {
   content: '\e09a';
 }
 
@@ -2007,7 +2505,9 @@
   font-style: normal;
 }
 
-.ei-social_dribbble::before {
+
+.ei-social_dribbble::before,
+.ei-icon_social_dribbble::before {
   content: '\e09b';
 }
 
@@ -2015,7 +2515,9 @@
   font-style: normal;
 }
 
-.ei-social_vimeo::before {
+
+.ei-social_vimeo::before,
+.ei-icon_social_vimeo::before {
   content: '\e09c';
 }
 
@@ -2023,7 +2525,9 @@
   font-style: normal;
 }
 
-.ei-social_linkedin::before {
+
+.ei-social_linkedin::before,
+.ei-icon_social_linkedin::before {
   content: '\e09d';
 }
 
@@ -2031,7 +2535,9 @@
   font-style: normal;
 }
 
-.ei-social_rss::before {
+
+.ei-social_rss::before,
+.ei-icon_social_rss::before {
   content: '\e09e';
 }
 
@@ -2039,7 +2545,9 @@
   font-style: normal;
 }
 
-.ei-social_deviantart::before {
+
+.ei-social_deviantart::before,
+.ei-icon_social_deviantart::before {
   content: '\e09f';
 }
 
@@ -2047,7 +2555,9 @@
   font-style: normal;
 }
 
-.ei-social_share::before {
+
+.ei-social_share::before,
+.ei-icon_social_share::before {
   content: '\e0a0';
 }
 
@@ -2055,7 +2565,9 @@
   font-style: normal;
 }
 
-.ei-social_myspace::before {
+
+.ei-social_myspace::before,
+.ei-icon_social_myspace::before {
   content: '\e0a1';
 }
 
@@ -2063,7 +2575,9 @@
   font-style: normal;
 }
 
-.ei-social_skype::before {
+
+.ei-social_skype::before,
+.ei-icon_social_skype::before {
   content: '\e0a2';
 }
 
@@ -2071,7 +2585,9 @@
   font-style: normal;
 }
 
-.ei-social_youtube::before {
+
+.ei-social_youtube::before,
+.ei-icon_social_youtube::before {
   content: '\e0a3';
 }
 
@@ -2079,7 +2595,9 @@
   font-style: normal;
 }
 
-.ei-social_picassa::before {
+
+.ei-social_picassa::before,
+.ei-icon_social_picassa::before {
   content: '\e0a4';
 }
 
@@ -2087,7 +2605,9 @@
   font-style: normal;
 }
 
-.ei-social_googledrive::before {
+
+.ei-social_googledrive::before,
+.ei-icon_social_googledrive::before {
   content: '\e0a5';
 }
 
@@ -2095,7 +2615,9 @@
   font-style: normal;
 }
 
-.ei-social_flickr::before {
+
+.ei-social_flickr::before,
+.ei-icon_social_flickr::before {
   content: '\e0a6';
 }
 
@@ -2103,7 +2625,9 @@
   font-style: normal;
 }
 
-.ei-social_blogger::before {
+
+.ei-social_blogger::before,
+.ei-icon_social_blogger::before {
   content: '\e0a7';
 }
 
@@ -2111,7 +2635,9 @@
   font-style: normal;
 }
 
-.ei-social_spotify::before {
+
+.ei-social_spotify::before,
+.ei-icon_social_spotify::before {
   content: '\e0a8';
 }
 
@@ -2119,7 +2645,9 @@
   font-style: normal;
 }
 
-.ei-social_delicious::before {
+
+.ei-social_delicious::before,
+.ei-icon_social_delicious::before {
   content: '\e0a9';
 }
 
@@ -2127,7 +2655,9 @@
   font-style: normal;
 }
 
-.ei-social_facebook_circle::before {
+
+.ei-social_facebook_circle::before,
+.ei-icon_social_facebook_circle::before {
   content: '\e0aa';
 }
 
@@ -2135,7 +2665,9 @@
   font-style: normal;
 }
 
-.ei-social_twitter_circle::before {
+
+.ei-social_twitter_circle::before,
+.ei-icon_social_twitter_circle::before {
   content: '\e0ab';
 }
 
@@ -2143,7 +2675,9 @@
   font-style: normal;
 }
 
-.ei-social_pinterest_circle::before {
+
+.ei-social_pinterest_circle::before,
+.ei-icon_social_pinterest_circle::before {
   content: '\e0ac';
 }
 
@@ -2151,7 +2685,9 @@
   font-style: normal;
 }
 
-.ei-social_googleplus_circle::before {
+
+.ei-social_googleplus_circle::before,
+.ei-icon_social_googleplus_circle::before {
   content: '\e0ad';
 }
 
@@ -2159,7 +2695,9 @@
   font-style: normal;
 }
 
-.ei-social_tumblr_circle::before {
+
+.ei-social_tumblr_circle::before,
+.ei-icon_social_tumblr_circle::before {
   content: '\e0ae';
 }
 
@@ -2167,7 +2705,9 @@
   font-style: normal;
 }
 
-.ei-social_stumbleupon_circle::before {
+
+.ei-social_stumbleupon_circle::before,
+.ei-icon_social_stumbleupon_circle::before {
   content: '\e0af';
 }
 
@@ -2175,7 +2715,9 @@
   font-style: normal;
 }
 
-.ei-social_wordpress_circle::before {
+
+.ei-social_wordpress_circle::before,
+.ei-icon_social_wordpress_circle::before {
   content: '\e0b0';
 }
 
@@ -2183,7 +2725,9 @@
   font-style: normal;
 }
 
-.ei-social_instagram_circle::before {
+
+.ei-social_instagram_circle::before,
+.ei-icon_social_instagram_circle::before {
   content: '\e0b1';
 }
 
@@ -2191,7 +2735,9 @@
   font-style: normal;
 }
 
-.ei-social_dribbble_circle::before {
+
+.ei-social_dribbble_circle::before,
+.ei-icon_social_dribbble_circle::before {
   content: '\e0b2';
 }
 
@@ -2199,7 +2745,9 @@
   font-style: normal;
 }
 
-.ei-social_vimeo_circle::before {
+
+.ei-social_vimeo_circle::before,
+.ei-icon_social_vimeo_circle::before {
   content: '\e0b3';
 }
 
@@ -2207,7 +2755,9 @@
   font-style: normal;
 }
 
-.ei-social_linkedin_circle::before {
+
+.ei-social_linkedin_circle::before,
+.ei-icon_social_linkedin_circle::before {
   content: '\e0b4';
 }
 
@@ -2215,7 +2765,9 @@
   font-style: normal;
 }
 
-.ei-social_rss_circle::before {
+
+.ei-social_rss_circle::before,
+.ei-icon_social_rss_circle::before {
   content: '\e0b5';
 }
 
@@ -2223,7 +2775,9 @@
   font-style: normal;
 }
 
-.ei-social_deviantart_circle::before {
+
+.ei-social_deviantart_circle::before,
+.ei-icon_social_deviantart_circle::before {
   content: '\e0b6';
 }
 
@@ -2231,7 +2785,9 @@
   font-style: normal;
 }
 
-.ei-social_share_circle::before {
+
+.ei-social_share_circle::before,
+.ei-icon_social_share_circle::before {
   content: '\e0b7';
 }
 
@@ -2239,7 +2795,9 @@
   font-style: normal;
 }
 
-.ei-social_myspace_circle::before {
+
+.ei-social_myspace_circle::before,
+.ei-icon_social_myspace_circle::before {
   content: '\e0b8';
 }
 
@@ -2247,7 +2805,9 @@
   font-style: normal;
 }
 
-.ei-social_skype_circle::before {
+
+.ei-social_skype_circle::before,
+.ei-icon_social_skype_circle::before {
   content: '\e0b9';
 }
 
@@ -2255,7 +2815,9 @@
   font-style: normal;
 }
 
-.ei-social_youtube_circle::before {
+
+.ei-social_youtube_circle::before,
+.ei-icon_social_youtube_circle::before {
   content: '\e0ba';
 }
 
@@ -2263,7 +2825,9 @@
   font-style: normal;
 }
 
-.ei-social_picassa_circle::before {
+
+.ei-social_picassa_circle::before,
+.ei-icon_social_picassa_circle::before {
   content: '\e0bb';
 }
 
@@ -2271,7 +2835,9 @@
   font-style: normal;
 }
 
-.ei-social_googledrive_alt2::before {
+
+.ei-social_googledrive_alt2::before,
+.ei-icon_social_googledrive_alt2::before {
   content: '\e0bc';
 }
 
@@ -2279,7 +2845,9 @@
   font-style: normal;
 }
 
-.ei-social_flickr_circle::before {
+
+.ei-social_flickr_circle::before,
+.ei-icon_social_flickr_circle::before {
   content: '\e0bd';
 }
 
@@ -2287,7 +2855,9 @@
   font-style: normal;
 }
 
-.ei-social_blogger_circle::before {
+
+.ei-social_blogger_circle::before,
+.ei-icon_social_blogger_circle::before {
   content: '\e0be';
 }
 
@@ -2295,7 +2865,9 @@
   font-style: normal;
 }
 
-.ei-social_spotify_circle::before {
+
+.ei-social_spotify_circle::before,
+.ei-icon_social_spotify_circle::before {
   content: '\e0bf';
 }
 
@@ -2303,7 +2875,9 @@
   font-style: normal;
 }
 
-.ei-social_delicious_circle::before {
+
+.ei-social_delicious_circle::before,
+.ei-icon_social_delicious_circle::before {
   content: '\e0c0';
 }
 
@@ -2311,7 +2885,9 @@
   font-style: normal;
 }
 
-.ei-social_facebook_square::before {
+
+.ei-social_facebook_square::before,
+.ei-icon_social_facebook_square::before {
   content: '\e0c1';
 }
 
@@ -2319,7 +2895,9 @@
   font-style: normal;
 }
 
-.ei-social_twitter_square::before {
+
+.ei-social_twitter_square::before,
+.ei-icon_social_twitter_square::before {
   content: '\e0c2';
 }
 
@@ -2327,7 +2905,9 @@
   font-style: normal;
 }
 
-.ei-social_pinterest_square::before {
+
+.ei-social_pinterest_square::before,
+.ei-icon_social_pinterest_square::before {
   content: '\e0c3';
 }
 
@@ -2335,7 +2915,9 @@
   font-style: normal;
 }
 
-.ei-social_googleplus_square::before {
+
+.ei-social_googleplus_square::before,
+.ei-icon_social_googleplus_square::before {
   content: '\e0c4';
 }
 
@@ -2343,7 +2925,9 @@
   font-style: normal;
 }
 
-.ei-social_tumblr_square::before {
+
+.ei-social_tumblr_square::before,
+.ei-icon_social_tumblr_square::before {
   content: '\e0c5';
 }
 
@@ -2351,7 +2935,9 @@
   font-style: normal;
 }
 
-.ei-social_stumbleupon_square::before {
+
+.ei-social_stumbleupon_square::before,
+.ei-icon_social_stumbleupon_square::before {
   content: '\e0c6';
 }
 
@@ -2359,7 +2945,9 @@
   font-style: normal;
 }
 
-.ei-social_wordpress_square::before {
+
+.ei-social_wordpress_square::before,
+.ei-icon_social_wordpress_square::before {
   content: '\e0c7';
 }
 
@@ -2367,7 +2955,9 @@
   font-style: normal;
 }
 
-.ei-social_instagram_square::before {
+
+.ei-social_instagram_square::before,
+.ei-icon_social_instagram_square::before {
   content: '\e0c8';
 }
 
@@ -2375,7 +2965,9 @@
   font-style: normal;
 }
 
-.ei-social_dribbble_square::before {
+
+.ei-social_dribbble_square::before,
+.ei-icon_social_dribbble_square::before {
   content: '\e0c9';
 }
 
@@ -2383,7 +2975,9 @@
   font-style: normal;
 }
 
-.ei-social_vimeo_square::before {
+
+.ei-social_vimeo_square::before,
+.ei-icon_social_vimeo_square::before {
   content: '\e0ca';
 }
 
@@ -2391,7 +2985,9 @@
   font-style: normal;
 }
 
-.ei-social_linkedin_square::before {
+
+.ei-social_linkedin_square::before,
+.ei-icon_social_linkedin_square::before {
   content: '\e0cb';
 }
 
@@ -2399,7 +2995,9 @@
   font-style: normal;
 }
 
-.ei-social_rss_square::before {
+
+.ei-social_rss_square::before,
+.ei-icon_social_rss_square::before {
   content: '\e0cc';
 }
 
@@ -2407,7 +3005,9 @@
   font-style: normal;
 }
 
-.ei-social_deviantart_square::before {
+
+.ei-social_deviantart_square::before,
+.ei-icon_social_deviantart_square::before {
   content: '\e0cd';
 }
 
@@ -2415,7 +3015,9 @@
   font-style: normal;
 }
 
-.ei-social_share_square::before {
+
+.ei-social_share_square::before,
+.ei-icon_social_share_square::before {
   content: '\e0ce';
 }
 
@@ -2423,7 +3025,9 @@
   font-style: normal;
 }
 
-.ei-social_myspace_square::before {
+
+.ei-social_myspace_square::before,
+.ei-icon_social_myspace_square::before {
   content: '\e0cf';
 }
 
@@ -2431,7 +3035,9 @@
   font-style: normal;
 }
 
-.ei-social_skype_square::before {
+
+.ei-social_skype_square::before,
+.ei-icon_social_skype_square::before {
   content: '\e0d0';
 }
 
@@ -2439,7 +3045,9 @@
   font-style: normal;
 }
 
-.ei-social_youtube_square::before {
+
+.ei-social_youtube_square::before,
+.ei-icon_social_youtube_square::before {
   content: '\e0d1';
 }
 
@@ -2447,7 +3055,9 @@
   font-style: normal;
 }
 
-.ei-social_picassa_square::before {
+
+.ei-social_picassa_square::before,
+.ei-icon_social_picassa_square::before {
   content: '\e0d2';
 }
 
@@ -2455,7 +3065,9 @@
   font-style: normal;
 }
 
-.ei-social_googledrive_square::before {
+
+.ei-social_googledrive_square::before,
+.ei-icon_social_googledrive_square::before {
   content: '\e0d3';
 }
 
@@ -2463,7 +3075,9 @@
   font-style: normal;
 }
 
-.ei-social_flickr_square::before {
+
+.ei-social_flickr_square::before,
+.ei-icon_social_flickr_square::before {
   content: '\e0d4';
 }
 
@@ -2471,7 +3085,9 @@
   font-style: normal;
 }
 
-.ei-social_blogger_square::before {
+
+.ei-social_blogger_square::before,
+.ei-icon_social_blogger_square::before {
   content: '\e0d5';
 }
 
@@ -2479,7 +3095,9 @@
   font-style: normal;
 }
 
-.ei-social_spotify_square::before {
+
+.ei-social_spotify_square::before,
+.ei-icon_social_spotify_square::before {
   content: '\e0d6';
 }
 
@@ -2487,7 +3105,9 @@
   font-style: normal;
 }
 
-.ei-social_delicious_square::before {
+
+.ei-social_delicious_square::before,
+.ei-icon_social_delicious_square::before {
   content: '\e0d7';
 }
 
@@ -2495,6 +3115,8 @@
   font-style: normal;
 }
 
+
+.ei-printer::before,
 .ei-icon_printer::before {
   content: '\e103';
 }
@@ -2503,6 +3125,8 @@
   font-style: normal;
 }
 
+
+.ei-calulator::before,
 .ei-icon_calulator::before {
   content: '\e0ee';
 }
@@ -2511,6 +3135,8 @@
   font-style: normal;
 }
 
+
+.ei-building::before,
 .ei-icon_building::before {
   content: '\e0ef';
 }
@@ -2519,6 +3145,8 @@
   font-style: normal;
 }
 
+
+.ei-floppy::before,
 .ei-icon_floppy::before {
   content: '\e0e8';
 }
@@ -2527,6 +3155,8 @@
   font-style: normal;
 }
 
+
+.ei-drive::before,
 .ei-icon_drive::before {
   content: '\e0ea';
 }
@@ -2535,6 +3165,8 @@
   font-style: normal;
 }
 
+
+.ei-search-2::before,
 .ei-icon_search-2::before {
   content: '\e101';
 }
@@ -2543,6 +3175,8 @@
   font-style: normal;
 }
 
+
+.ei-id::before,
 .ei-icon_id::before {
   content: '\e107';
 }
@@ -2551,6 +3185,8 @@
   font-style: normal;
 }
 
+
+.ei-id-2::before,
 .ei-icon_id-2::before {
   content: '\e108';
 }
@@ -2559,6 +3195,8 @@
   font-style: normal;
 }
 
+
+.ei-puzzle::before,
 .ei-icon_puzzle::before {
   content: '\e102';
 }
@@ -2567,6 +3205,8 @@
   font-style: normal;
 }
 
+
+.ei-like::before,
 .ei-icon_like::before {
   content: '\e106';
 }
@@ -2575,6 +3215,8 @@
   font-style: normal;
 }
 
+
+.ei-dislike::before,
 .ei-icon_dislike::before {
   content: '\e0eb';
 }
@@ -2583,6 +3225,8 @@
   font-style: normal;
 }
 
+
+.ei-mug::before,
 .ei-icon_mug::before {
   content: '\e105';
 }
@@ -2591,6 +3235,8 @@
   font-style: normal;
 }
 
+
+.ei-currency::before,
 .ei-icon_currency::before {
   content: '\e0ed';
 }
@@ -2599,6 +3245,8 @@
   font-style: normal;
 }
 
+
+.ei-wallet::before,
 .ei-icon_wallet::before {
   content: '\e100';
 }
@@ -2607,6 +3255,8 @@
   font-style: normal;
 }
 
+
+.ei-pens::before,
 .ei-icon_pens::before {
   content: '\e104';
 }
@@ -2615,6 +3265,8 @@
   font-style: normal;
 }
 
+
+.ei-easel::before,
 .ei-icon_easel::before {
   content: '\e0e9';
 }
@@ -2623,6 +3275,8 @@
   font-style: normal;
 }
 
+
+.ei-flowchart::before,
 .ei-icon_flowchart::before {
   content: '\e109';
 }
@@ -2631,6 +3285,8 @@
   font-style: normal;
 }
 
+
+.ei-datareport::before,
 .ei-icon_datareport::before {
   content: '\e0ec';
 }
@@ -2639,6 +3295,8 @@
   font-style: normal;
 }
 
+
+.ei-briefcase::before,
 .ei-icon_briefcase::before {
   content: '\e0fe';
 }
@@ -2647,6 +3305,8 @@
   font-style: normal;
 }
 
+
+.ei-shield::before,
 .ei-icon_shield::before {
   content: '\e0f6';
 }
@@ -2655,6 +3315,8 @@
   font-style: normal;
 }
 
+
+.ei-percent::before,
 .ei-icon_percent::before {
   content: '\e0fb';
 }
@@ -2663,6 +3325,8 @@
   font-style: normal;
 }
 
+
+.ei-globe::before,
 .ei-icon_globe::before {
   content: '\e0e2';
 }
@@ -2671,6 +3335,8 @@
   font-style: normal;
 }
 
+
+.ei-globe-2::before,
 .ei-icon_globe-2::before {
   content: '\e0e3';
 }
@@ -2679,6 +3345,8 @@
   font-style: normal;
 }
 
+
+.ei-target::before,
 .ei-icon_target::before {
   content: '\e0f5';
 }
@@ -2687,6 +3355,8 @@
   font-style: normal;
 }
 
+
+.ei-hourglass::before,
 .ei-icon_hourglass::before {
   content: '\e0e1';
 }
@@ -2695,6 +3365,8 @@
   font-style: normal;
 }
 
+
+.ei-balance::before,
 .ei-icon_balance::before {
   content: '\e0ff';
 }
@@ -2703,6 +3375,8 @@
   font-style: normal;
 }
 
+
+.ei-rook::before,
 .ei-icon_rook::before {
   content: '\e0f8';
 }
@@ -2711,6 +3385,8 @@
   font-style: normal;
 }
 
+
+.ei-printer-alt::before,
 .ei-icon_printer-alt::before {
   content: '\e0fa';
 }
@@ -2719,6 +3395,8 @@
   font-style: normal;
 }
 
+
+.ei-calculator_alt::before,
 .ei-icon_calculator_alt::before {
   content: '\e0e7';
 }
@@ -2727,6 +3405,8 @@
   font-style: normal;
 }
 
+
+.ei-building_alt::before,
 .ei-icon_building_alt::before {
   content: '\e0fd';
 }
@@ -2735,6 +3415,8 @@
   font-style: normal;
 }
 
+
+.ei-floppy_alt::before,
 .ei-icon_floppy_alt::before {
   content: '\e0e4';
 }
@@ -2743,6 +3425,8 @@
   font-style: normal;
 }
 
+
+.ei-drive_alt::before,
 .ei-icon_drive_alt::before {
   content: '\e0e5';
 }
@@ -2751,6 +3435,8 @@
   font-style: normal;
 }
 
+
+.ei-search_alt::before,
 .ei-icon_search_alt::before {
   content: '\e0f7';
 }
@@ -2759,6 +3445,8 @@
   font-style: normal;
 }
 
+
+.ei-id_alt::before,
 .ei-icon_id_alt::before {
   content: '\e0e0';
 }
@@ -2767,6 +3455,8 @@
   font-style: normal;
 }
 
+
+.ei-id-2_alt::before,
 .ei-icon_id-2_alt::before {
   content: '\e0fc';
 }
@@ -2775,6 +3465,8 @@
   font-style: normal;
 }
 
+
+.ei-puzzle_alt::before,
 .ei-icon_puzzle_alt::before {
   content: '\e0f9';
 }
@@ -2783,6 +3475,8 @@
   font-style: normal;
 }
 
+
+.ei-like_alt::before,
 .ei-icon_like_alt::before {
   content: '\e0dd';
 }
@@ -2791,6 +3485,8 @@
   font-style: normal;
 }
 
+
+.ei-dislike_alt::before,
 .ei-icon_dislike_alt::before {
   content: '\e0f1';
 }
@@ -2799,6 +3495,8 @@
   font-style: normal;
 }
 
+
+.ei-mug_alt::before,
 .ei-icon_mug_alt::before {
   content: '\e0dc';
 }
@@ -2807,6 +3505,8 @@
   font-style: normal;
 }
 
+
+.ei-currency_alt::before,
 .ei-icon_currency_alt::before {
   content: '\e0f3';
 }
@@ -2815,6 +3515,8 @@
   font-style: normal;
 }
 
+
+.ei-wallet_alt::before,
 .ei-icon_wallet_alt::before {
   content: '\e0d8';
 }
@@ -2823,6 +3525,8 @@
   font-style: normal;
 }
 
+
+.ei-pens_alt::before,
 .ei-icon_pens_alt::before {
   content: '\e0db';
 }
@@ -2831,6 +3535,8 @@
   font-style: normal;
 }
 
+
+.ei-easel_alt::before,
 .ei-icon_easel_alt::before {
   content: '\e0f0';
 }
@@ -2839,6 +3545,8 @@
   font-style: normal;
 }
 
+
+.ei-flowchart_alt::before,
 .ei-icon_flowchart_alt::before {
   content: '\e0df';
 }
@@ -2847,6 +3555,8 @@
   font-style: normal;
 }
 
+
+.ei-datareport_alt::before,
 .ei-icon_datareport_alt::before {
   content: '\e0f2';
 }
@@ -2855,6 +3565,8 @@
   font-style: normal;
 }
 
+
+.ei-briefcase_alt::before,
 .ei-icon_briefcase_alt::before {
   content: '\e0f4';
 }
@@ -2863,6 +3575,8 @@
   font-style: normal;
 }
 
+
+.ei-shield_alt::before,
 .ei-icon_shield_alt::before {
   content: '\e0d9';
 }
@@ -2871,6 +3585,8 @@
   font-style: normal;
 }
 
+
+.ei-percent_alt::before,
 .ei-icon_percent_alt::before {
   content: '\e0da';
 }
@@ -2879,6 +3595,8 @@
   font-style: normal;
 }
 
+
+.ei-globe_alt::before,
 .ei-icon_globe_alt::before {
   content: '\e0de';
 }
@@ -2887,6 +3605,8 @@
   font-style: normal;
 }
 
+
+.ei-clipboard::before,
 .ei-icon_clipboard::before {
   content: '\e0e6';
 }
