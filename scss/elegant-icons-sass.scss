@@ -6,7 +6,7 @@ $ei-font-path: '/fonts' !default;
 $ei-font-filename: 'ElegantIcons' !default;
 $ei-font-family: $ei-font-filename !default;
 $ei-icon-prefix: 'ei-' !default;
-$ei-default-placement: 'before';
+$ei-default-placement: 'before' !default;
 
 // Add unicode escape backslash
 @function unicode($str) {
