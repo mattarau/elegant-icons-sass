@@ -20,7 +20,17 @@ This is the Sass version of the [Elegant Themes](http://www.elegantthemes.com/)â
 
   > You might need to copy the font files yourself from the `node_modules/elegant-icons-sass/fonts` folder. You can use your build system of choice for that.
 
-3. (Optionally) Override the default selector prefix:
+3. (Optionally) Override the default font formats:
+
+  ```scss
+  $ei-font-formats: eot woff2 woff ttf svg;
+
+  // Default value: woff2 woff
+  ```
+
+  > Since all modern browsers now support woff and woff2, they have been set as the only default formats. If you need support for other formats, you can set your list of choice by overriding this variable, including any format from the example list above.
+
+4. (Optionally) Override the default selector prefix:
 
   ```scss
   $ei-icon-prefix: 'my-prefix-';
@@ -32,7 +42,7 @@ This is the Sass version of the [Elegant Themes](http://www.elegantthemes.com/)â
 
   Check the [**Advanced Customization**](#Advanced-Customization) section below for more override options.
 
-4. Import `elegant-icons-sass` in your code:
+5. Import `elegant-icons-sass` in your code:
 
   ```scss
   @import 'node_modules/elegant-icons-sass/scss/elegant-icons-sass';

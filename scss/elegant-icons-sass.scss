@@ -1,28 +1,12 @@
 @charset 'UTF-8';
 
+@import 'utils';
 @import 'icons-list';
 
-$ei-font-path: '/fonts' !default;
-$ei-font-filename: 'ElegantIcons' !default;
-$ei-font-family: $ei-font-filename !default;
 $ei-icon-prefix: 'ei-' !default;
 $ei-default-placement: 'before' !default;
 
-// Add unicode escape backslash
-@function unicode($str) {
-  @return unquote('\'')+unquote(str-insert($str, '\\', 1))+unquote('\'');
-};
-
-@font-face {
-  font-family: $ei-font-family;
-  src: url('#{$ei-font-path}/#{$ei-font-filename}.eot'),
-       url('#{$ei-font-path}/#{$ei-font-filename}.woff2') format('woff2'),
-       url('#{$ei-font-path}/#{$ei-font-filename}.woff') format('woff'),
-       url('#{$ei-font-path}/#{$ei-font-filename}.ttf') format('truetype'),
-       url('#{$ei-font-path}/#{$ei-font-filename}.svg##{$ei-font-filename}') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
+@include elegant-icons-font-face();
 
 %common-icon-properties {
 	font-family: $ei-font-family;
