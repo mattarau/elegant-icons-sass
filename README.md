@@ -60,6 +60,8 @@ This is the Sass version of the [Elegant Themes](http://www.elegantthemes.com/)â
 
 To use the icons, you will need their names, which you can find [here](https://www.elegantthemes.com/blog/resources/elegant-icon-font) (right after the unicode reference list).
 
+On the list, you will find that almost all icons have an `icon_` prefix in their names, which seems to be redundant and unnecessary. In this Sass version, you can omit it (as done in the exemples below), but for backwards compatibility they are still valid selectors for all usage types (mixin, placeholder or class).
+
 > The unicode references of the above list are meant to be used as `data-icon`, which the support has been removed in this sass version, because itâ€˜s considered a bad practice due to performance issues. If you wish to use this way, you must define it yourself.
 
 By default, the icon will be defined as a `::before` pseude-element. If you wish to change this default, check the [**Advanced Customization**](#Advanced-Customization) section below.
@@ -80,7 +82,7 @@ You can override the icon default placement by passing it a second parameter:
 
 ```scss
 .my-selector {
-  @include elegant-icon('social_twitter_circle', 'after');  
+  @include elegant-icon('question', 'after');  
 }
 ```
 
@@ -90,7 +92,7 @@ Simply extend the your selector with the placeholder:
 
 ```scss
 .my-selector {
-  @extend %ei-arrow_down;
+  @extend %ei-contacts_alt;
 }
 ```
 
@@ -101,7 +103,7 @@ Simply extend the your selector with the placeholder:
 If you just want to use it as a class, you can simply set the icon class name to your html element:
 
 ```html
-<span class="ei-icon_plus"></span>
+<span class="ei-plus"></span>
 ```
 
 > When using as a class, the selector `prefix` must be used, unless you have overridden it as an empty string.
