@@ -137,6 +137,10 @@ You can override a few more variables:
 
   > The icon placement can only be set as 'before' or 'after' which will define it as a `::before` or an `::after` pseudo-element, respectively.
 
+## Original image files
+
+The original image files (in SVG and PNG) can be found in the repo's [image folder](https://github.com/mdentinho/elegant-icons-sass/tree/master/images).
+
 ## Contributing
 
 1. Fork and Clone.
