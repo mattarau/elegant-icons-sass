@@ -5,70 +5,33 @@ This is the Sass version of the [Elegant Themes](http://www.elegantthemes.com/)�
 ## Installation
 
 1. Install this package:
-
   ```bash
   npm install --save elegant-icons-sass
   ```
-
-2. In your code, override the font path variable:
-
-  ```scss
-  $ei-font-path: '../assets/fonts/elegant-icons/';
-  ```
-
-  > Please note that the path above must be relative to  the generated `CSS` file, since it is used as a normal `src: url()` in an `@font-face` definition.
-
-  > You might need to copy the font files yourself from the `node_modules/elegant-icons-sass/fonts` folder. You can use your build system of choice for that.
-
-3. (Optionally) Override the default font formats:
-
-  ```scss
-  $ei-font-formats: eot woff2 woff ttf svg;
-
-  // Default value: woff2 woff
-  ```
-
-  > Since all modern browsers now support woff and woff2, they have been set as the only default formats. If you need support for other formats, you can set your list of choice by overriding this variable, including any format from the example list above.
-
-4. (Optionally) Override the default selector prefix:
-
-  ```scss
-  $ei-icon-prefix: 'my-prefix-';
-
-  // Default value: 'ei-'
-  ```
-
-  > If you don‘t wish to use a prefix, set it to an empty string: `$ei-icon-prefix: '';`
-
-  Check the [**Advanced Customization**](#Advanced-Customization) section below for more override options.
-
-5. Import `elegant-icons-sass` in your code:
-
+2. Import `elegant-icons-sass` in your code:
   ```scss
   @import 'node_modules/elegant-icons-sass/scss/elegant-icons-sass';
   ```
-
   Or, you can also add `node_modules/elegant-icons-sass/scss/` to your sass `includePaths` and make the import cleaner:
-
   ```scss
   @import 'elegant-icons-sass';
   ```
 
-  > The import must be done **AFTER** the overrides of steps 2 and 3.
+> By default, only the `woff` and `woff2` formats ([Why?](http://caniuse.com/#search=woff)) of the fonts will be pulled from a CDN (using [RawGit](https://rawgit.com/)). If you want to use different formats and/or local fonts, check the [**Customization**](#Customization) section below.
 
 ## Usage
 
 To use the icons, you will need their names, which you can find [here](https://www.elegantthemes.com/blog/resources/elegant-icon-font) (right after the unicode reference list).
 
-On the list, you will find that almost all icons have an `icon_` prefix in their names, which seems to be redundant and unnecessary. In this Sass version, you can omit it (as done in the exemples below), but for backwards compatibility they are still valid selectors for all usage types (mixin, placeholder or class).
-
 > The unicode references of the above list are meant to be used as `data-icon`, which the support has been removed in this sass version, because it‘s considered a bad practice due to performance issues. If you wish to use this way, you must define it yourself.
 
-By default, the icon will be defined as a `::before` pseude-element. If you wish to change this default, check the [**Advanced Customization**](#Advanced-Customization) section below.
+> On the list, you will find that almost all icons have an `icon_` prefix in their names, which seems to be redundant and unnecessary. In this Sass version, you can omit it (as done in the exemples below), but for backwards compatibility they are still valid selectors for all usage types (mixin, placeholder or class).
+
+> By default, the icon will be defined as a `::before` pseude-element. If you wish to change this default, check the [**Customization**](#Customization) section below.
 
 ### As a mixin
 
-Simply include the mixin in your selector:
+Include the mixin in your selector:
 
 ```scss
 .my-selector {
@@ -76,9 +39,7 @@ Simply include the mixin in your selector:
 }
 ```
 
-> When using as a mixin, the selector‘s `prefix` must **NOT** be used.
-
-You can override the icon default placement by passing it a second parameter:
+You can override the icon's default placement by passing it as a second parameter:
 
 ```scss
 .my-selector {
@@ -88,7 +49,7 @@ You can override the icon default placement by passing it a second parameter:
 
 ### As a placeholder
 
-Simply extend the your selector with the placeholder:
+Extend the your selector with the placeholder:
 
 ```scss
 .my-selector {
@@ -96,7 +57,7 @@ Simply extend the your selector with the placeholder:
 }
 ```
 
-> When using as a placeholder, the selector `prefix` must be used, unless you have overridden it as an empty string.
+> When using as a placeholder, the prefix `ei-` must be used. Check the [**Customization**](#Customization) section below on how to change or remove this prefix.
 
 ### As a class
 
@@ -106,13 +67,62 @@ If you just want to use it as a class, you can simply set the icon class name to
 <span class="ei-plus"></span>
 ```
 
-> When using as a class, the selector `prefix` must be used, unless you have overridden it as an empty string.
+> When using as a class, the prefix `ei-` must be used. Check the [**Customization**](#Customization) section below on how to change or remove this prefix.
 
-## Advanced Customization
+## Customization
 
-You can override a few more variables:
+This sass version of the Elegant Icons defines a few defaults, which are considered best practices or common use cases. If you wish to override them, here is how:
 
-1. The font file name:
+  > The overrides below, must be done **BEFORE** the import explained in the Step 2 of the [Usage](#Usage) section.
+
+### Using a different selector prefix:
+
+```scss
+$ei-icon-prefix: 'my-prefix-';
+
+// Default value: 'ei-'
+```
+
+> If you don‘t want to use a prefix, set it to an empty string: `$ei-icon-prefix: '';`
+
+### Set the icons placement as `::after`:
+
+```scss
+$ei-default-placement: 'after';
+
+// Default value: 'before'
+```
+
+> The `$ei-default-placement` variable can only be set as 'before' or 'after' which will define it as a `::before` or an `::after` pseudo-element, respectively.
+
+### Using different font formats:
+
+```scss
+// All formats:
+$ei-font-formats: eot woff2 woff ttf svg;
+
+// Default value: woff woff2
+```
+
+> You can define any formats combination that you need from the available formats on example list above.
+
+### Using local fonts
+
+1. Activate the local font usage:
+  ```scss
+  $ei-use-local-fonts: true;
+  ```
+2. Override the font path variable:
+  ```scss
+  // Example:
+  $ei-font-path: '../assets/fonts/elegant-icons/';
+
+  // Default value: '/fonts'
+  ```
+  > Please note that the path above must be relative to the generated `CSS` file, since it is used as a normal `src: url()` in an `@font-face` definition.
+
+3. (Optionally) change the font file name:
+
   ```scss
   $ei-font-filename: 'my-custom-icons-filename';
 
@@ -121,7 +131,8 @@ You can override a few more variables:
 
   > If you‘re just copying the font files and not renaming them, don‘t override this.
 
-2. The font family name:
+4. (Optionally) change the font family name:
+
   ```scss
   $ei-font-family: 'My-Custom-Icons-Family-Name';
 
@@ -130,14 +141,7 @@ You can override a few more variables:
 
   > Override only if you somehow wish to have a different font-family name defined to the icons font.
 
-3. The default icon placement:
-  ```scss
-  $ei-default-placement: 'after';
-
-  // Default value: 'before'
-  ```
-
-  > The icon placement can only be set as 'before' or 'after' which will define it as a `::before` or an `::after` pseudo-element, respectively.
+> You might need to copy the font files yourself from the `node_modules/elegant-icons-sass/fonts` folder. You can use your build system of choice for that.
 
 ## Original image files
 
