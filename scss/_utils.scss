@@ -1,6 +1,8 @@
 @charset 'UTF-8';
 
-$ei-font-path: '/fonts' !default;
+$ei-use-local-fonts: false !default;
+$ei-font-path-cdn: 'https://cdn.rawgit.com/mdentinho/elegant-icons-sass/e48e7df0/fonts' !default;
+$ei-font-path-local: '/fonts' !default;
 $ei-font-filename: 'ElegantIcons' !default;
 $ei-font-family: $ei-font-filename !default;
 $ei-font-formats: woff2 woff !default;
@@ -36,7 +38,11 @@ $ei-font-formats: woff2 woff !default;
 @mixin elegant-icons-font-face() {
 
   $src: null;
-  $path: '#{$ei-font-path}/#{$ei-font-filename}';
+  $path: '#{
+    if($ei-use-local-fonts,
+       $ei-font-path-local,
+       $ei-font-path-cdn)
+    }/#{$ei-font-filename}';
 
   $available-formats: (
     eot: 'embedded-opentype',
