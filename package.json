@@ -5,7 +5,7 @@
   "main": "scss/elegant-icons-sass.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node-sass -r --output-style expanded ./scss/elegant-icons-sass.scss ./css/elegant-icons.css",
+    "build": "node-sass -r --output-style expanded ./scss/css-generator.scss ./css/elegant-icons.css",
     "postbuild": "npm run autoprefixer && npm run minify",
     "autoprefixer": "postcss css/elegant-icons.css --use autoprefixer --no-map -o css/elegant-icons.css",
     "minify": "cssnano css/elegant-icons.css css/elegant-icons.min.css"
