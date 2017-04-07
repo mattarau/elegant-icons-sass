@@ -5,6 +5,7 @@
 
 $ei-icon-prefix: 'ei-' !default;
 $ei-default-placement: 'before' !default;
+$ei-generate-classes: false !default;
 
 @include elegant-icons-font-face();
 
@@ -40,13 +41,12 @@ $ei-default-placement: 'before' !default;
   }
 
   // Generate class selectors
-  .#{$ei-icon-prefix} {
-    &#{$icon-name},
-    &icon_#{$icon-name} {
-      @extend %#{$ei-icon-prefix}#{$icon-name};
-    }
-    &i {
-      font-style: normal;
+  @if $ei-generate-classes {
+    .#{$ei-icon-prefix} {
+      &#{$icon-name},
+      &icon_#{$icon-name} {
+        @extend %#{$ei-icon-prefix}#{$icon-name};
+      }
     }
   }
 }
