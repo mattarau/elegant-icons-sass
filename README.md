@@ -17,7 +17,7 @@ This is the Sass version of the [Elegant Themes](http://www.elegantthemes.com/)â
   @import 'elegant-icons-sass';
   ```
 
-> By default, only the `woff` and `woff2` formats ([Why?](http://caniuse.com/#search=woff)) of the fonts will be pulled from a CDN (using [RawGit](https://rawgit.com/)). If you want to use different formats and/or local fonts, check the [**Customization**](#Customization) section below.
+> By default, only the `woff` and `woff2` formats ([Why?](http://caniuse.com/#search=woff)) of the fonts will be pulled from a CDN (using [RawGit](https://rawgit.com/)). If you want to use different formats and/or local fonts, check the [**Customization**](#customization) section below.
 
 ## Usage
 
@@ -27,7 +27,7 @@ To use the icons, you will need their names, which you can find [here](https://w
 
 > On the list, you will find that almost all icons have an `icon_` prefix in their names, which seems to be redundant and unnecessary. In this Sass version, you can omit it (as done in the exemples below), but for backwards compatibility they are still valid selectors for all usage types (mixin, placeholder or class).
 
-> By default, the icon will be defined as a `::before` pseude-element. If you wish to change this default, check the [**Customization**](#Customization) section below.
+> By default, the icon will be defined as a `::before` pseude-element. If you wish to change this default, check the [**Customization**](#customization) section below.
 
 ### As a mixin
 
@@ -57,23 +57,33 @@ Extend the your selector with the placeholder:
 }
 ```
 
-> When using as a placeholder, the prefix `ei-` must be used. Check the [**Customization**](#Customization) section below on how to change or remove this prefix.
+> When using as a placeholder, the prefix `ei-` must be used. Check the [**Customization**](#customization) section below on how to change or remove this prefix.
 
 ### As a class
 
-If you just want to use it as a class, you can simply set the icon class name to your html element:
+If you just want to use it as a class, you **MUST ACTIVATE** the class generation first (Check the [**Customization**](#customization) section below on how to activate it.)
+
+After activated, you can simply set the icon class name to your html element:
 
 ```html
 <span class="ei-plus"></span>
 ```
 
-> When using as a class, the prefix `ei-` must be used. Check the [**Customization**](#Customization) section below on how to change or remove this prefix.
+> When using as a class, the prefix `ei-` must be used. Check the [**Customization**](#customization) section below on how to change or remove this prefix.
 
 ## Customization
 
 This sass version of the Elegant Icons defines a few defaults, which are considered best practices or common use cases. If you wish to override them, here is how:
 
-  > The overrides below, must be done **BEFORE** the import explained in the Step 2 of the [Usage](#Usage) section.
+  > The overrides below, must be done **BEFORE** the import explained in the Step 2 of the [Usage](#usage) section.
+
+### Activate class selectors
+
+```scss
+$ei-generate-classes: true;
+
+// Default value: false
+```
 
 ### Using a different selector prefix:
 
