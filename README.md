@@ -125,7 +125,7 @@ $ei-font-formats: eot woff2 woff ttf svg;
 2. Override the font path variable:
   ```scss
   // Example:
-  $ei-font-path: '../assets/fonts/elegant-icons/';
+  $ei-font-path-local: '../assets/fonts/elegant-icons/';
 
   // Default value: '/fonts'
   ```
